@@ -1,6 +1,7 @@
 Title: YouTube's UI is Shit... Part 1
-Date: Tue Jan 27 12:24:29 EST 2015
-Category: Rants, UI
+Date: 2015-1-27
+Category: Rants
+tags: Rants, UI, Youtube
 Author: Frank Hrach
 
 I'll start this post by stating that I am in no way an expert in user interface design, I spend enough time on YouTube as a user to notice some glaring flaws. The fact that I am *not* an expert and yet still feel qualified should highlight on how bad YouTube's UI really is.

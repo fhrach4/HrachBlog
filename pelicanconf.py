@@ -6,7 +6,7 @@ AUTHOR = u'Frank Hrach IV'
 SITENAME = u'HrachBlog'
 SITEURL = ''
 
-TIMEZONE = 'America/NewYork'
+TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'
 
@@ -26,6 +26,9 @@ SOCIAL = (('Facebook', 'https://www.facebook.com/fhrach4'),
           ('GitHub', 'https://www.github.com/fhrach4'),)
 
 DEFAULT_PAGINATION = 10
+
+# Theme
+THEME = 'pelican-blueidea'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
