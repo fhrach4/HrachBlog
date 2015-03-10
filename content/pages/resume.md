@@ -10,11 +10,11 @@ Rochester Institute of Technology
 
 Responsible for keeping user machine up to date and in working order. Deployed new systems and performed network maintenance as required. Helped rebuild the school's network during summer of 2012
 ###Rochester Institute of Technology
-*Data Center Operator, April 2013 - present*
+*Data Center Operator, April 2013 - February 2015*
 
 Responsible for ensuring backups and related services complete successfully during the night
 ###Strong Memorial Hospital at University of Rochester
-*Co-Op Student, February 2014 - present*
+*Co-Op Student, February 2014 - August 2014*
 
 Made web based applications in asp.net and C#.
 
