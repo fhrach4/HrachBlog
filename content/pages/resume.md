@@ -1,7 +1,7 @@
 Title: Resume
 #Resume
 ##Education
-Batchelor of Science, Computer science (expected graduation in 2016)
+Batchelor of Science, Computer science (expected graduation in 2018)
 Rochester Institute of Technology
 
 ##Experience
@@ -13,19 +13,25 @@ Responsible for keeping user machine up to date and in working order. Deployed n
 *Data Center Operator, April 2013 - February 2015*
 
 Responsible for ensuring backups and related services complete successfully during the night
+
+*Software Development Intern, May 2015 - August 2015*
+
+Worked on creating the backend for a calandar web application using Pyramid and Python
+
 ###Strong Memorial Hospital at University of Rochester
 *Co-Op Student, February 2014 - August 2014*
 
 Made web based applications in asp.net and C#.
 
 ## Skills
-* Proficient in Java, C# and .NET framework, C++ and, HTML + CS
+* Proficient in Java, C# with .NET framework, Python, and HTML + CSS
+* Working knowledge of C/C++, JavaScript, and scheme
 * Proficient in both Microsoft Windows and Linux based systems with working knowledge of Apple OSX systems
 
 ## Relevant Experience
 ###Game Engine
 * 2D *bullet hell* game engine written in C# using XNA
-The Danmaku game engine is fully functional 2D game engine which is notable for its ability to handle over 50,000 in game objects at once using sophisticated sorting methods. The C# version of the project is dead, but the project is being rewritten in C++.
+The Danmaku game engine is fully functional 2D game engine which is notable for its ability to handle over 50,000 in game objects at once using sophisticated sorting methods.
 * Smart Vending Machine
 Smart Vending Machine is mock vending machine system written in Java for a Software Engineering class. It generates a list of items to be stocked and logs transactions which can be sorted by several different criteria.
 
