@@ -9,7 +9,7 @@ sitting back, stalking your prey, deciding who to take out in a single, well-pla
 respected and feared, picking of priority targets, and making the enemy team fear poking their heads out for even a
 second. However, that version of the sniper is rarely a reality, especially in Overwatch.
 
-Overwatch teams are very small compared to most other FPS games. Battlefield has up to 64 players, Team Forgress 2
+Overwatch teams are very small compared to most other FPS games. Battlefield has up to 64 players, Team Fortress 2
 is balanced around 24, and Call of Duty games generally have 16. A full game of Overwatch only has 12 players, so,
 every pick is very important, and each player matters a lot. The sniper's role, in Overwatch is to provide
 information on the enemy team's positions using abilities, and, to apply pressure and eliminate important members
