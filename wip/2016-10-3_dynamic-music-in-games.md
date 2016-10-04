@@ -52,4 +52,10 @@ sense of confidence in the player, pumping them up for the rest of the gauntlet.
 As technology improved, it became possible to store enough music on a cartage to have more dynamic music which
 changed to fit what was happening on screen more effectively.
 
-TODO:
+
+TODO: Example from the 16-Bit Era
+
+
+By the late 1990's, it was computationally possible to easily store and process vast amounts of audio data,
+allowing for game soundtracks to become more vibrant and advanced once more. With compact disks it was possible to
+stream recorded music in-game.
