@@ -20,10 +20,8 @@ to have dynamic music at the time, but, developers began to pick music to match 
 Take Megaman II for example: It isn't difficult to hear the industrial and hard rock influence on Metal Man's stage
 theme.
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/60c0Jv-VnJ0" frameborder="0"
 allowfullscreen></iframe>
-
 
 The gameplay of the stage matches the tone of the music perfectly. Megaman is always in motion, moving conveyor
 belts dragging him left and right constantly as enemies engage him across the screen nearly at all times.
@@ -34,7 +32,24 @@ Then, take Bubble Man's Theme
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kj0-aWXkolQ" frameborder="0"
 allowfullscreen></iframe>
 
-
 Bubble Man's stage is a far-cry from Metal Man's, and the difference in the music shows. Instead of a constant
 fight against moving platforms and constantly shooting enemies, the biggest nuisance in Bubble Man's stage is the
-spikes and difficult jumps. This is reflected in the more laid back, and almost calming atmosphere
+spikes and difficult jumps. This is reflected in the more laid back, and almost calming atmosphere. The song is
+almost playful and jumpy, taking a bit of the edge off of quite a few of the difficult jumps in the stage.
+
+
+And it's impossible to talk about Mega Man II without mentioning the famous Wily Castle 1 & 2 theme:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N4VtxWRfPOk" frameborder="0"
+allowfullscreen></iframe>
+
+This theme is so well know because it's both awesome to listen to and perfectly sets the tone for the final stretch
+of the game. It's triumphant, with his goal in sight, Megaman charges forward towards the final boss. It's ominous,
+with certain parts creating a sense of dread of the difficult challenge ahead. It's upbeat, creating a powerful
+sense of confidence in the player, pumping them up for the rest of the gauntlet.
+
+
+As technology improved, it became possible to store enough music on a cartage to have more dynamic music which
+changed to fit what was happening on screen more effectively.
+
+TODO:
