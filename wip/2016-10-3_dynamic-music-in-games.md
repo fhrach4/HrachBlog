@@ -58,4 +58,29 @@ TODO: Example from the 16-Bit Era
 
 By the late 1990's, it was computationally possible to easily store and process vast amounts of audio data,
 allowing for game soundtracks to become more vibrant and advanced once more. With compact disks it was possible to
-stream recorded music in-game.
+stream recorded music in-game. Many games had also began to look and feel closer to reality. While the designs and
+art styles could still be cartoon-ish at times, but it was also the beginning of near realistic graphics and
+environments. With this, came a change in music style. Quickly, the very noticeable and iconic music of old was
+replaced with mostly ambient and cinematic scores. This was the era of games chasing the Hollywood dream, so to
+speak. However, this also was an age of increased storage capacity for all memory types. Finally, it was possible
+to have truly dynamic music which responded to the player.
+
+
+TODO: Notable examples of soundtracks in the 2000s
+
+
+The 2010s continued the trend of cinematic scores, though, the market decisively split into the AAA and indie
+markets, both which had their own focus for both gameplay and soundtrack design. The indie scene tended to invoke
+nostalgia, with many notable soundtracks being modern mixes of NES and Genesis chiptunes.
+
+
+TODO: Talk about notable indie soundtracks
+
+
+This brings me to Doom (2016). Doom's soundtrack is, in my opinion, the single best video game soundtrack in the
+last 10 years. This is a bold claim, but the way that the music seamlessly flows from one event to another to mold
+the action fits perfectly, matching the ebb and flow of the virtual carnage perfectly. At its core, the soundtrack
+builds on itself. During the majority of the level, there is a quiet, subtle, ambient soundtrack. When the player
+enters an encounter, the music adds a few layers and enters what I'll refer to "combat mode". The tempo picks up,
+more tracks are added, and the general tension of the song increases. Then, if the encounter is multiple waves, the
+music will begin in honest with heavy-guitar riffs, blaring industrial-electronic sounds, and a pounding bass line.
