@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>HrachBlog - Other</title><link href="/" rel="alternate"></link><link href="/feeds/other.atom.xml" rel="self"></link><id>/</id><updated>2016-10-03T00:00:00-04:00</updated><entry><title>Long Post Incoming</title><link href="/long-post-incoming.html" rel="alternate"></link><published>2016-10-03T00:00:00-04:00</published><updated>2016-10-03T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-10-03:/long-post-incoming.html</id><summary type="html">&lt;p&gt;I have a long article about music in video games coming, but it's taking me longer than planned to gather
+information and write it. It should be coming in the next coupe of days. I haven't forgotten this challenge, don't
+worry!&lt;/p&gt;</summary><content type="html">&lt;p&gt;I have a long article about music in video games coming, but it's taking me longer than planned to gather
+information and write it. It should be coming in the next coupe of days. I haven't forgotten this challenge, don't
+worry!&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>Taking Notes With Markdown and Pandoc</title><link href="/taking-notes-with-markdown-and-pandoc.html" rel="alternate"></link><published>2016-09-21T00:00:00-04:00</published><updated>2016-09-21T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-21:/taking-notes-with-markdown-and-pandoc.html</id><summary type="html">&lt;h3&gt;Installing&lt;/h3&gt;
+&lt;p&gt;A friend of mine suggested that I try and type my notes in markdown format instead of typing them all into plain text. I decided to take his advice after he listed off some of the advantages of doing so. Firstly, the notes are very portable and can be …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Installing&lt;/h3&gt;
+&lt;p&gt;A friend of mine suggested that I try and type my notes in markdown format instead of typing them all into plain text. I decided to take his advice after he listed off some of the advantages of doing so. Firstly, the notes are very portable and can be complied into a number of different formats as needed, notably into PDF, HTML, and even into presentations with a little know-how. Secondly, it allows for notes to be read and searched much more easily because PDFs are much comfortable and readable than raw text files on mobile devices. Finally, the notes look immaculate with very little effort, at least, compared to the amount of formatting required for an equivalent Word or OneNote document. By focusing on the content and not the format of my notes, it lets me concentrate on the actual content, and ultimately, take better notes.&lt;/p&gt;
+&lt;p&gt;Getting Pandoc setup is easy and is available on just about every OS. Either download it from your OS's software repos, or, get a pre-built version from their &lt;a href="https://github.com/jgm/pandoc/releases/tag/1.17.2"&gt;download page&lt;/a&gt;. After it's installed, it's useful to have a LaTeX compiler installed, and it is required for exporting a PDF. Take a look at Pandoc's &lt;a href="http://pandoc.org/installing.html"&gt;installation guide&lt;/a&gt; to find out which LaTeX implementations it works with. Once you've installed these, you're good to go!&lt;/p&gt;
+&lt;h3&gt;Metadata&lt;/h3&gt;
+&lt;p&gt;Pandoc supplies a format to define the title, author, and date modified for the document. Which can be used as follows:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c"&gt;% Title Goes here&lt;/span&gt;
+&lt;span class="c"&gt;% Authors Go Here; Separated by Semicolons&lt;/span&gt;
+&lt;span class="c"&gt;% Date; Separated by Semicolons&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;If the title is long enough that you want to control how many lines it takes up manually, simply do the following:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c"&gt;% Title Line One&lt;/span&gt;
+  &lt;span class="n"&gt;Title&lt;/span&gt; &lt;span class="n"&gt;Line&lt;/span&gt; &lt;span class="n"&gt;Two&lt;/span&gt;
+&lt;span class="c"&gt;% Authors Go Here; Separated by Semicolons&lt;/span&gt;
+&lt;span class="c"&gt;% Date; Separated by Semicolons&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h3&gt;Note Taking&lt;/h3&gt;
+&lt;p&gt;This is entirely up to you! However, I recommend using headers as the primary form of organization because Pandoc forms a full interactive tree in the PDF allowing you to easily find and jump between sections. Headers in markdown are easy a level 1 header is just &lt;code&gt;#I Am a Level One Header&lt;/code&gt; and a level 2 is simply &lt;code&gt;##I Am a Level Two Header&lt;/code&gt; and so on and so forth. For readability purposes, I generally use mostly Level One and Level Three headers.&lt;/p&gt;
+&lt;p&gt;There are two kinds of lists, just like HTML, ordered lists and unordered lists. Their names are self explanatory, so, to make an unordered list, simply place an &lt;code&gt;*&lt;/code&gt; before each line, and place each member of the list on a different line. For an ordered list, simply replace the asterisk with &lt;code&gt;1.&lt;/code&gt;, &lt;code&gt;2.&lt;/code&gt;, etc. For either type, to add a sublist simply indent the asterisk or number. It is important to note that markdown requires there to be two newlines between a paragraph and the start of a list, otherwise, it doesn't become a list. So to have a list after a paragraph of normal text, it must be formated similar to the following:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;I am a paragraph with some text
+
+1. I am an ordered List
+2. I am an ordered List
+    1. I am an ordered sub-list
+3. I am an ordered List
+    * I am an unordered sub-list
+
+* I am an unordered list
+* I am an unordered list
+    1. I am an ordered sub-list
+* I am an unordered list
+    * I am an unordered sub-list
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h3&gt;Compiling To a PDF&lt;/h3&gt;
+&lt;p&gt;Once you're ready to convert, simply run the following command to exporta as a PDF:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pandoc some_file.md -s -o some_file.pdf
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;And that's it! After the command completes there will be a pdf with your notes converted into a beautiful document.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>Starting the 30 Day Challenge</title><link href="/starting-the-30-day-challenge.html" rel="alternate"></link><published>2016-09-13T00:00:00-04:00</published><updated>2016-09-13T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-13:/starting-the-30-day-challenge.html</id><summary type="html">&lt;p&gt;I never update this blog, ever. That needs to change. Due to various reasons which I will not get into at the moment, I am currently placed in the CRP program at RIT due to difficulties with academic performance in the last year or so. While I was initially not …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I never update this blog, ever. That needs to change. Due to various reasons which I will not get into at the moment, I am currently placed in the CRP program at RIT due to difficulties with academic performance in the last year or so. While I was initially not thrilled, perhaps even resistant, to the couple of classes I was being forced to take, I'm beginning to feel like at least one of them will be a positive influence. I was expecting to have motivation and wellness, but it might actually provide the kick in the pants I need to start making changes in my life. One easy change is the &lt;a href="https://www.youtube.com/watch?v=UNP03fDSj1U"&gt;30 Day Challenge&lt;/a&gt; from a TED talk by Matt Cutts.&lt;/p&gt;
+&lt;p&gt;The gist of the 30 Day Challenge is based off of the assertion that it takes the average human 30 days to create a habit. I have no idea if this is true or not, or if it's even based on any research, but there is certainly no harm in trying to make a change and stick with it for 30 days. Needless to say, the change I decided to attempt was to update this neglected website that I'm paying for. I figure the worst that can happen is that I actually use the damn thing, so, there is certainly no reason not to at least attempt this.&lt;/p&gt;
+&lt;p&gt;Either way, look forward to this actually being updated for once, I suppose.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry></feed>

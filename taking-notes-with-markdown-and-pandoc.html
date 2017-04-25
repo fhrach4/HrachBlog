@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Taking Notes With Markdown and Pandoc</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+        <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="HrachBlog Atom Feed" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">HrachBlog </a></h1>
+                <nav><ul>
+                    <li><a href="/category/gaming.html">Gaming</a></li>
+                    <li class="active"><a href="/category/other.html">Other</a></li>
+                    <li><a href="/category/rants.html">Rants</a></li>
+                    <li><a href="/category/tech.html">Tech</a></li>
+                </ul>
+                </nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/taking-notes-with-markdown-and-pandoc.html" rel="bookmark"
+           title="Permalink to Taking Notes With Markdown and Pandoc">Taking Notes With Markdown and Pandoc</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <span>Wed 21 September 2016</span>
+<span>| tags: <a href="/tag/30-day-challenge.html">30 Day Challenge</a></span>
+</footer><!-- /.post-info -->      <h3>Installing</h3>
+<p>A friend of mine suggested that I try and type my notes in markdown format instead of typing them all into plain text. I decided to take his advice after he listed off some of the advantages of doing so. Firstly, the notes are very portable and can be complied into a number of different formats as needed, notably into PDF, HTML, and even into presentations with a little know-how. Secondly, it allows for notes to be read and searched much more easily because PDFs are much comfortable and readable than raw text files on mobile devices. Finally, the notes look immaculate with very little effort, at least, compared to the amount of formatting required for an equivalent Word or OneNote document. By focusing on the content and not the format of my notes, it lets me concentrate on the actual content, and ultimately, take better notes.</p>
+<p>Getting Pandoc setup is easy and is available on just about every OS. Either download it from your OS's software repos, or, get a pre-built version from their <a href="https://github.com/jgm/pandoc/releases/tag/1.17.2">download page</a>. After it's installed, it's useful to have a LaTeX compiler installed, and it is required for exporting a PDF. Take a look at Pandoc's <a href="http://pandoc.org/installing.html">installation guide</a> to find out which LaTeX implementations it works with. Once you've installed these, you're good to go!</p>
+<h3>Metadata</h3>
+<p>Pandoc supplies a format to define the title, author, and date modified for the document. Which can be used as follows:</p>
+<div class="highlight"><pre><span></span><span class="c">% Title Goes here</span>
+<span class="c">% Authors Go Here; Separated by Semicolons</span>
+<span class="c">% Date; Separated by Semicolons</span>
+</pre></div>
+
+
+<p>If the title is long enough that you want to control how many lines it takes up manually, simply do the following:</p>
+<div class="highlight"><pre><span></span><span class="c">% Title Line One</span>
+  <span class="n">Title</span> <span class="n">Line</span> <span class="n">Two</span>
+<span class="c">% Authors Go Here; Separated by Semicolons</span>
+<span class="c">% Date; Separated by Semicolons</span>
+</pre></div>
+
+
+<h3>Note Taking</h3>
+<p>This is entirely up to you! However, I recommend using headers as the primary form of organization because Pandoc forms a full interactive tree in the PDF allowing you to easily find and jump between sections. Headers in markdown are easy a level 1 header is just <code>#I Am a Level One Header</code> and a level 2 is simply <code>##I Am a Level Two Header</code> and so on and so forth. For readability purposes, I generally use mostly Level One and Level Three headers.</p>
+<p>There are two kinds of lists, just like HTML, ordered lists and unordered lists. Their names are self explanatory, so, to make an unordered list, simply place an <code>*</code> before each line, and place each member of the list on a different line. For an ordered list, simply replace the asterisk with <code>1.</code>, <code>2.</code>, etc. For either type, to add a sublist simply indent the asterisk or number. It is important to note that markdown requires there to be two newlines between a paragraph and the start of a list, otherwise, it doesn't become a list. So to have a list after a paragraph of normal text, it must be formated similar to the following:</p>
+<div class="highlight"><pre><span></span>I am a paragraph with some text
+
+1. I am an ordered List
+2. I am an ordered List
+    1. I am an ordered sub-list
+3. I am an ordered List
+    * I am an unordered sub-list
+
+* I am an unordered list
+* I am an unordered list
+    1. I am an ordered sub-list
+* I am an unordered list
+    * I am an unordered sub-list
+</pre></div>
+
+
+<h3>Compiling To a PDF</h3>
+<p>Once you're ready to convert, simply run the following command to exporta as a PDF:</p>
+<div class="highlight"><pre><span></span>pandoc some_file.md -s -o some_file.pdf
+</pre></div>
+
+
+<p>And that's it! After the command completes there will be a pdf with your notes converted into a beautiful document.</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="about.md://getpelican.com/">About</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                            <li><a href="https://www.facebook.com/fhrach4">Facebook</a></li>
+                            <li><a href="https://www.github.com/fhrach4">GitHub</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <p>Powered by <a href="http://getpelican.com/">Pelican</a>. Theme <a href="https://github.com/blueicefield/pelican-blueidea/">blueidea</a>, inspired by the default theme.</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

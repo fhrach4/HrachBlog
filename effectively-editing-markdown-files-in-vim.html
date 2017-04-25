@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Effectively Editing Markdown Files in Vim</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+        <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="HrachBlog Atom Feed" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">HrachBlog </a></h1>
+                <nav><ul>
+                    <li><a href="/category/gaming.html">Gaming</a></li>
+                    <li><a href="/category/other.html">Other</a></li>
+                    <li><a href="/category/rants.html">Rants</a></li>
+                    <li class="active"><a href="/category/tech.html">Tech</a></li>
+                </ul>
+                </nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/effectively-editing-markdown-files-in-vim.html" rel="bookmark"
+           title="Permalink to Effectively Editing Markdown Files in Vim">Effectively Editing Markdown Files in Vim</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <span>Thu 22 September 2016</span>
+<span>| tags: <a href="/tag/30-day-challenge.html">30 Day Challenge</a><a href="/tag/vim.html">Vim</a></span>
+</footer><!-- /.post-info -->      <p>Writing markdown is not like writing code, or even HTML at times. Markdown is almost exclusively plain English and 
+has very few tags and very little syntax, unlike HTML and all other programming languages. This puts Markdown in a
+very strange place, since it cannot be edited effectively in a traditional word processor, and, it's structure
+makes it a poor fit for many text editors. I played around with many different editors, including Sublime, Atom,
+and even Visual Studio Code. The best fit was probably Atom, however, it's spell-checking is very inefficient to
+use, or at least, I never was able to find a quick way to make corrections. This is perfectly fine, of course, Atom
+is meant as a text editor for code, seemingly JavaScript,  where spelling is not important at all. But, I have the
+English-language ability of a paper bag, and essentially require a spell-checker to not make numerous errors
+without fail.</p>
+<p>Eventually, I ended up back at my roots, so to speak, using Vim. However, Vim is also completely awful for Markdown
+by default as well, however, I know how to configure it and there is a very robust community which has fixed the
+vast majority of issues I encountered.</p>
+<h1>Vimrc Changes</h1>
+<p>By default, Vim does not recognize Markdown files as a filetype. This is fixed with a script later, but it is also
+entirely possible to fix without the script by simply adding the following to your .vimrc:</p>
+<div class="highlight"><pre><span></span>filetype on
+filetype plugin on
+au BufNewFile,BufFilePre,BufRead *.md set filetype=markdown
+</pre></div>
+
+
+<p>Now markdown files can be treated like any other file type. Personally, I added the following to make my markdown
+edition experience more pleasurable:</p>
+<div class="highlight"><pre><span></span>&quot;&quot; Markdown
+au FileType markdown set spell
+au FileType markdown set autoindent
+au FileType markdown set smartindent
+au FileType markdown set list
+au FileType markdown set lcs=tab:&gt;-
+au FileType markdown set textwidth=115
+</pre></div>
+
+
+<p>There's nothing too fancy here. <code>spell</code> is simply enabled because I fail tremendously at the English language.
+<code>autoindent</code> and <code>smartindent</code> are both enabled to make editing lists require less liberal use of the tab key.
+<code>list</code> and <code>lcs=tab:&gt;-</code> work together to display the indentation levels when they are present. I find this makes it
+much easier to determine which level I'm writing at in long chains of lists, which, often happens while I'm taking
+notes. Finally, <code>textwidth=115</code> is something I'm still playing with. It forces Vim to start a new line once it
+reaches 115 characters which is useful because it is very painful to edit extremely long lines. However, this value
+will mostly likely change because 115 is a bit too small on a 1080p monitor, and, too wide for a split view on my
+laptop's puny 1600x900 monitor.</p>
+<h1>Markdown.vim</h1>
+<p><a href="https://github.com/plasticboy/vim-markdown">Markdown.vim</a> is a script which adds proper detection of markdown
+filetypes, adds syntax highlighting support, and, includes some features which some may find useful. It works
+pretty well out of the box, however, a few small changes were required for me personally. The section in my
+.vimrc is as follows:</p>
+<div class="highlight"><pre><span></span>&quot;&quot; Markdown.vim
+let g:vim_markdown_folding_disabled = 1
+let g:vim_markdown_conceal = 0
+</pre></div>
+
+
+<p>The only changes above disable folding when a file is opened, which I find particularly obnoxious, and disables
+ concealing. Concealing, in this context, hides the contents of a link while editing to save space. I actually
+ haven't used Markdown.vim too much, so, I will do an article in the future outlining some more advanced features
+ and customizations that I will eventually learn to use and decide on.</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="about.md://getpelican.com/">About</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                            <li><a href="https://www.facebook.com/fhrach4">Facebook</a></li>
+                            <li><a href="https://www.github.com/fhrach4">GitHub</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <p>Powered by <a href="http://getpelican.com/">Pelican</a>. Theme <a href="https://github.com/blueicefield/pelican-blueidea/">blueidea</a>, inspired by the default theme.</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

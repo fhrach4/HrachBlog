@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Fixing Vim Color Errors in Tmux</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+        <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="HrachBlog Atom Feed" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">HrachBlog </a></h1>
+                <nav><ul>
+                    <li><a href="/category/gaming.html">Gaming</a></li>
+                    <li><a href="/category/other.html">Other</a></li>
+                    <li><a href="/category/rants.html">Rants</a></li>
+                    <li class="active"><a href="/category/tech.html">Tech</a></li>
+                </ul>
+                </nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/fixing-vim-color-errors-in-tmux.html" rel="bookmark"
+           title="Permalink to Fixing Vim Color Errors in Tmux">Fixing Vim Color Errors in Tmux</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <span>Mon 26 September 2016</span>
+<span>| tags: <a href="/tag/30-day-challenge.html">30 Day Challenge</a><a href="/tag/vim.html">Vim</a></span>
+</footer><!-- /.post-info -->      <p>As it is for many, tmux is an irreplaceable part of my workflow, however, anyone who has a 256color color scheme in
+vim is familiar with this picture:</p>
+<p><img alt="Background bleeding in tmux" src="images/bad_256-term.jpg"></p>
+<p>Thankfully, this is easily fixed with a simple modification to your vimrc.</p>
+<p>I'm not exactly sure why the following snippet fixes this, but setting <code>t_ut</code> to blank fixes the issue. I am unsure
+of how this effects vim's normal coloring, so, it never hurts to check for the specific case.</p>
+<div class="highlight"><pre><span></span>if &amp;term =~ 256color
+    t_ut=
+end if
+</pre></div>
+
+
+<p>It's that easy!</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="about.md://getpelican.com/">About</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                            <li><a href="https://www.facebook.com/fhrach4">Facebook</a></li>
+                            <li><a href="https://www.github.com/fhrach4">GitHub</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <p>Powered by <a href="http://getpelican.com/">Pelican</a>. Theme <a href="https://github.com/blueicefield/pelican-blueidea/">blueidea</a>, inspired by the default theme.</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

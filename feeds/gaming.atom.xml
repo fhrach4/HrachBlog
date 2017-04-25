@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>HrachBlog - Gaming</title><link href="/" rel="alternate"></link><link href="/feeds/gaming.atom.xml" rel="self"></link><id>/</id><updated>2016-10-02T00:00:00-04:00</updated><entry><title>Checkpoints</title><link href="/checkpoints.html" rel="alternate"></link><published>2016-10-02T00:00:00-04:00</published><updated>2016-10-02T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-10-02:/checkpoints.html</id><summary type="html">&lt;p&gt;Recently I've been playing through Doom 2016 again, this time on Nightmare difficulty. Perhaps I was a touch
+foolish to jump into the game after a few months of not playing on the hardest sane difficult, but I have been able
+to get very intimate with the checkpoint system, and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Recently I've been playing through Doom 2016 again, this time on Nightmare difficulty. Perhaps I was a touch
+foolish to jump into the game after a few months of not playing on the hardest sane difficult, but I have been able
+to get very intimate with the checkpoint system, and thought I'd say a few things on checkpoint systems in general.&lt;/p&gt;
+&lt;p&gt;There are two main ways to save progress in a level: user controlled savestates and checkpoints. For the sake of
+clarification, savestates (sometimes called quicksaves) are when the user or application quickly saves the current
+state of the game at anytime or at specific points. This style is most common in open-world games, with the
+quintessential example being any Bethesda RPG. You mash F5 to save at any time, and the game saves automatically at
+times, usually at major load zones to minimize progress lost due to crashes. The other, and much older way, is the
+checkpoint system. This is used in  too many games to count, but they tend to be linear in nature. A very old
+example of this is Super Mario Brothers. In every level, except for world 8, there is a half-way point where the
+player can restart from if they die during the level.These two different styles serve very different purposes and
+deeply influence the way the player interacts with the game.&lt;/p&gt;
+&lt;p&gt;Checkpoints force the player to play on the developers terms- they concede some freedom in order to get a more
+refined experience from the game. A good checkpoint system actually decreases the difficulty of the game, but makes
+it more engaging experience by constantly presenting the player with a fresh challenge. The player doesn't want to
+constantly do challenges they've already completed over and over again, which they may find trivial, because they
+keep failing on a later and more difficult portion of a level. This is most noticeable in linear FPS games. Go load
+up any Call of Duty Campaign, and you'll see what I mean. You never restart from an area right before a long
+walking section or a part with a lot of dialogue. Checkpoints always place the player right at the beginning of a
+section with a lot of combat or action, letting them get back into the action while the adrenaline is still pumping
+if they fail. It's a way to keep the user pumped up and motivated, because there is nothing more tortious then
+being forced to re-do a long walking or talking section when the call of battle is five minutes away.&lt;/p&gt;
+&lt;p&gt;On the other end of the coin, savestates make the player nearly entirely responsible for their own progress and
+experience. This puts a lot of responsibility on the player. In many games with this kind of system, the player can
+easily get themselves into an unwinnable situation, or lose hours of progress if they're not careful. However, this
+system works very well for non-linear or open-world games where the developer cannot control nor predict the
+experience the player will have nearly as well as in a linear game. The player having this responsibility gives
+them the flexibility to determine where they want to restart after they fail.&lt;/p&gt;
+&lt;p&gt;This brings me to Doom 2016. Both Doom and Doom II used the savestate system, with the player in complete control
+over their restart points. This fit well with the open nature of the levels. Essentially, every Doom level was
+an open world maze in which Doomguy murdered and explored his way through, encouraging the player to save
+frequently and scour the level to look for secrets. Doom 2016's levels are in the same style, but feature a
+checkpoint system. This works wonderfully during the initial parts of the level, and it saves before nearly every
+encounter. However, once the player begins to backtrack to find secrets it begins to fall apart. Several times the
+player might be presented with an encounter without a save beforehand, which can be quite annoying to keep running
+towards after failing it on higher difficulties. In other cases, there are platforming sections for secrets where
+the player might fall and die, resulting in a frustrating walk to get back since they couldn't simply couldn't
+restart where they wanted to. This is not the end of the world, but once again, is very frustrating and can take
+the player out of the game immensely.&lt;/p&gt;
+&lt;p&gt;On the whole, Doom 2016's checkpoints work pretty well, frustrations aside, though, I can't help but feel that the
+savestate system from the older titles was better suited for the style of play.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>Balancing Snipers in Video Games</title><link href="/balancing-snipers-in-video-games.html" rel="alternate"></link><published>2016-09-23T00:00:00-04:00</published><updated>2016-09-23T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-23:/balancing-snipers-in-video-games.html</id><summary type="html">&lt;p&gt;Ah sniping, The most romanticised form of gunplay in many videogames. I can certainly understand the allure,
+sitting back, stalking your prey, deciding who to take out in a single, well-placed, shot. Good snipers are
+respected and feared, picking of priority targets, and making the enemy team fear poking their …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ah sniping, The most romanticised form of gunplay in many videogames. I can certainly understand the allure,
+sitting back, stalking your prey, deciding who to take out in a single, well-placed, shot. Good snipers are
+respected and feared, picking of priority targets, and making the enemy team fear poking their heads out for even a
+second. However, that version of the sniper is rarely a reality, especially in Overwatch.&lt;/p&gt;
+&lt;p&gt;Overwatch teams are very small compared to most other FPS games. Battlefield has up to 64 players, Team Fortress 2
+is balanced around 24, and Call of Duty games generally have 16. A full game of Overwatch only has 12 players, so,
+every pick is very important, and each player matters a lot. The sniper's role, in Overwatch is to provide
+information on the enemy team's positions using abilities, and, to apply pressure and eliminate important members
+from the enemy team (usually the support classes) with well placed shots. However, this role is very, very, map
+dependant and more frequently than not, the Sniper is a player who would be better off playing another offense or
+defence class simply because they would do more damage and deter the enemy team by being a non-sniping class, or,
+enabling the other players to live longer by playing a support class. Furthermore, the wall-hack abilities of these
+classes are nice, but, they accomplish little more than a team who effectively talks to each other.&lt;/p&gt;
+&lt;p&gt;However, despite this, there is a lot of Hanzo being played, and nearly no Widowmaker.&lt;/p&gt;
+&lt;p&gt;This most likely down to map design. Very few maps allow for these long sight lines, which, puts Hanzo at an advantage
+because his bow is much more effective at medium range combat than Widomaker's rifle. Furthermore, both snipers are
+often forced to engage on the enemy's terms, being forced to fight at close or even medium range, due to the number of
+routes to nearly every sniper spot. Additionally, Blizzard nerfed Widowmaker's aim-down-sights time, and, increased the
+cooldown on her movement ability, making it very difficult for her to actually get into position, and even more
+difficult to escape from pressure. Hanzo fairs better, since the hitbox for his bow is very, very, forgiving.
+Additionally, Hanzo's fire-rate far outclasses that of Widow's with less zoom so it is easier to hit a closer target,
+and, Hanzo's wall-climb has no cooldown at all, making his primary advanced movement option far superior to Widow's.
+Finally, Hanzo received a buff in the last patch, increasing his movement speed while aiming, which, keeps him mobile
+even when lining up a shot, unlike Widowmaker once more.&lt;/p&gt;
+&lt;p&gt;As it stands, Sniper is a questionable role to fill in the first place, and, Hanzo is nearly always the better pick
+due to his fire-rate, movement options, and more forgiving hit-detection. I'd like to see the choice between
+snipers to be much more nuanced decision. The buffs to Widow in the PTR look promising, but personally, I believe
+that a cooldown reduction on Widow's movement ability is needed as well.&lt;/p&gt;</content><category term="30 Day Challenge"></category><category term="Overwatch"></category></entry><entry><title>Why I Still Play Pokemon GO</title><link href="/why-i-still-play-pokemon-go.html" rel="alternate"></link><published>2016-09-14T00:00:00-04:00</published><updated>2016-09-14T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-14:/why-i-still-play-pokemon-go.html</id><summary type="html">&lt;p&gt;Pokemon GO was a huge craze this previous summer, shattering usage records and beating even the mighty Twitter in daily active users after just a few days on the market. However, nothing lasts forever and what comes up must come down. Recently, I have heard a lot of doom and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pokemon GO was a huge craze this previous summer, shattering usage records and beating even the mighty Twitter in daily active users after just a few days on the market. However, nothing lasts forever and what comes up must come down. Recently, I have heard a lot of doom and gloom about the future of Pokemon Go, and I honestly don't see the same storm clouds that others do. Firstly, &lt;a href="http://arstechnica.com/gaming/2016/08/how-long-can-we-expect-the-pokemon-go-craze-to-last/"&gt;it is following a similar decay rate to other major mobile games&lt;/a&gt;, it's just more noticeable due to the incredible rate it gained users; there was essentially no slow build up, just an initial explosion. But most of all, I don't see Pokemon GO as even competing with most mobile games on the market right now. To me, it is an entirely different kind of experience.&lt;/p&gt;
+&lt;p&gt;Pokemon GO is a different kind of mobile game to me. It's not a time waster I play on the toilet, in the waiting room at the dentist's to calm my nerves, or when I'm avoiding doing work. No, I play Pokemon GO during my commute. As a student, there is a lot of walking in my life, even though I live off-campus and drive there every day. It actually makes me look forward to walking to and from my car, and between my classes. Every walk represents forward progress in the game, 1km closer to hatching that egg, gaining more items to catch more pokemon for stardust to power-up my main "dream team", or just the possibility of finding a new pokemon all together. Unlike most games I play, Pokemon GO is not a time-waster, or a distraction for when I should probably be doing something else, it serves to enhance a normally boring and mundane aspect of my daily life. Furthermore, it encourages me to get out and walk more than a simple step counter does because there is an immediately tangible reward in the game instead of a cryptic step or calorie count that most health apps give.&lt;/p&gt;
+&lt;p&gt;As for the future of Pokemon GO, I'm still optimistic. Niantic has done nothing but add features which improve the game over the past month. From a system which lets player's finally evaluate their pokemon's combat effectiveness, to re-adding the much loved radar, to adding a new buddy system which grants resources for the pokemon that you have as your buddy as you walk. All of these features build upon the common theme of improving my everyday walks. Because of that, I don't see myself stopping anytime soon.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>Running Cities: Skylines on Fedora 21</title><link href="/running-cities-skylines-on-fedora-21.html" rel="alternate"></link><published>2015-03-15T00:00:00-04:00</published><updated>2015-03-15T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2015-03-15:/running-cities-skylines-on-fedora-21.html</id><summary type="html">&lt;p&gt;Cities: Skylines is finally released with support for Windows, OSX, and Linux from day one! The game runs great on Windows, but if you are running it on Linux, you might be having some issues. My install crashed on every launch with only a black screen which required me to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Cities: Skylines is finally released with support for Windows, OSX, and Linux from day one! The game runs great on Windows, but if you are running it on Linux, you might be having some issues. My install crashed on every launch with only a black screen which required me to force quit the application. The fix to this is simple, but annoying. The game must be launched in windowed mode with the -windowed flag in Fedora 21. After the game launches is is safe to switch the game back to fullscreen mode in the options menu. Below are some screenshots showing how to add arguments in Steam.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Cities: Skylines settings in Steam for Linux" src="images/cities-tutorial-1.jpg"&gt;
+&lt;img alt="Cities: Skylines settings in Steam for Linux" src="images/cities-tutorial-2.jpg"&gt;
+&lt;img alt="Cities: Skylines settings in Steam for Linux" src="images/cities-tutorial-3.jpg"&gt;&lt;/p&gt;</content><category term="Gaming"></category><category term="Linux"></category></entry></feed>

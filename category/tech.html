@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>HrachBlog - Tech</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+        <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="HrachBlog Atom Feed" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">HrachBlog </a></h1>
+                <nav><ul>
+                    <li><a href="/category/gaming.html">Gaming</a></li>
+                    <li><a href="/category/other.html">Other</a></li>
+                    <li><a href="/category/rants.html">Rants</a></li>
+                    <li class="active"><a href="/category/tech.html">Tech</a></li>
+                </ul>
+                </nav>
+        </header><!-- /#banner -->
+
+            <aside id="featured" class="body">
+                <article>
+                    <h1 class="entry-title"><a href="/the-thoughtfulness-of-windows-phone-81.html">The Thoughtfulness of Windows Phone 8.1</a></h1>
+<footer class="post-info">
+        <span>Thu 29 September 2016</span>
+<span>| tags: <a href="/tag/30-day-challenge.html">30 Day Challenge</a><a href="/tag/mobile.html">Mobile</a></span>
+</footer><!-- /.post-info --><p>In my previous post, I mentioned that the best phone I had ever owned was the Nokia Lumia 920. While the hardware
+was excellent, a large part of my fondness for the device is due to its operating system: Windows 8.1 Mobile.
+Windows phone is the butt of many jokes, but really, the other two contenders in the mobile OS space could learn a
+lot from some of the design choices of Windows Phone.</p>
+<h3>Multitasking</h3>
+<p>One of the things Windows phone does exceptionally well is handling multiple applications running at once. Each
+application runs in a sandbox, not unlike a docker container. This allows the phone to easily "hibernate" an
+application when it is sent to the background, instead of the phone trying to run every application all at once,
+and closing them when resources are needed. This model, however, does not allow for background tasks as only one
+application can be "awake" and running at a time. This is solved by applications being able to register a
+<em>background service</em> which can always run even when the application is not in the foreground. These use fewer
+resources than the main application, and the user can allow or disallow any application from running in the
+background if they wish. The advantage of this system, is even very-low end phones don't suffer performance
+penalties from having many applications open, and, it enables the user to have more control over their battery life
+as no service can run by accident in the background.</p>
+<h3>Calendar and Mail</h3>
+<p>One of the most useful features of Windows Phone was how it handled email. Call me old fashioned, but 99% of my
+phone's use time is dealing with calendar and email. The way Windows Phone handled these wasn't too different from
+many competitors: you simply registered your account with the operating system, and applications could ask for the
+main update service to retrieve information from the accounts based off of a permission system. Applications could,
+of course, store and authenticate with their own set of credentials not managed by the operating system, but for
+any services from Google, Microsoft, Amazon, etc. it was much more convenient to use the credential store since the
+account was most likely going to be used in multiple applications. The key difference with Windows Phone was the
+sheer number of third-party accounts this worked with. This is most likely only because Windows Pone never managed
+to get above 7% of the US smartphone market share, so they had to accommodate as many platforms as possible instead
+of being able to leverage their position to force everyone to use their platform.</p>
+<p>Because the operating system handles account authentication for mail, that means that the operating system itself
+can manage reminders and mail tasks. This has several advantages: you are not blindly trusting a third-party
+application with your login information, and, it lets the OS take actions to optimize various aspects. The first
+part is self-explanatory, since the application never directly sees your username and password, a malicious
+application can not take the information. The latter tends to be rather silent but useful: the operating system can
+change the frequency that an account is updated, and thus saving power, dynamically based off of usage.</p>
+<h3>Music</h3>
+<p>Somehow, the secondary function of my phone is not to take calls, it's to play music, and Windows Phone set the
+standard I use for judging media controls. Playing music works like any other device, naturally, but the controls
+are all placed in logical and thoughtful places. For example, as soon as a background task playing music is
+registered, the lock-screen is replaced with fully functional media controls. These are much easier to use than
+other smartphones I've used since the entire lock-screen changes to accommodate the new primary task, instead of
+placing a small set of controls. The other incredibly useful feature is that a minimal set of controls (next,
+previous, and play/pause) appears on the volume screen. When the volume button is pressed up or down, a card slides
+down from the top of the screen. When music is playing, the controls are added to that menu. This enables the user
+to pause their music or skip a song they don't like even while in a different application.</p>
+<p>Overall, there are quite a few very well though out aspects of Windows Phone as a platform. It appears that the
+platform will not survive five more years in the current market, but perhaps some of these design choices can come
+to other platforms.</p>                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/the-android-problem.html" rel="bookmark"
+                           title="Permalink to The Android Problem">The Android Problem</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <span>Wed 28 September 2016</span>
+<span>| tags: <a href="/tag/30-day-challenge.html">30 Day Challenge</a><a href="/tag/mobile.html">Mobile</a></span>
+</footer><!-- /.post-info -->                <p>I have a somewhat mixed history with smartphones. Initially, I didn't see the point in them at all and stuck with
+my flip-phone until sometime around 2011, my hesitation being mostly due to power concerns and not wanting my GPS,
+phone, calendar, and audio player running out of battery all …</p>
+                <a class="readmore" href="/the-android-problem.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/fixing-vim-color-errors-in-tmux.html" rel="bookmark"
+                           title="Permalink to Fixing Vim Color Errors in Tmux">Fixing Vim Color Errors in Tmux</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <span>Mon 26 September 2016</span>
+<span>| tags: <a href="/tag/30-day-challenge.html">30 Day Challenge</a><a href="/tag/vim.html">Vim</a></span>
+</footer><!-- /.post-info -->                <p>As it is for many, tmux is an irreplaceable part of my workflow, however, anyone who has a 256color color scheme in
+vim is familiar with this picture:</p>
+<p><img alt="Background bleeding in tmux" src="images/bad_256-term.jpg"></p>
+<p>Thankfully, this is easily fixed with a simple modification to your vimrc.</p>
+<p>I'm not exactly sure why the following snippet fixes this …</p>
+                <a class="readmore" href="/fixing-vim-color-errors-in-tmux.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/making-smarter-ads.html" rel="bookmark"
+                           title="Permalink to Making Smarter Ads">Making Smarter Ads</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <span>Sun 25 September 2016</span>
+<span>| tags: <a href="/tag/30-day-challenge.html">30 Day Challenge</a></span>
+</footer><!-- /.post-info -->                <p>Advertisements make the world wide web as we know it possible. This is a truth that most don't like to hear,
+however, don't mistake this sentiment as judgement for using an ad-blocker. There are plenty of legitimate reasons
+to use one, ranging from protecting your system from malicious code, to …</p>
+                <a class="readmore" href="/making-smarter-ads.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/effectively-editing-markdown-files-in-vim.html" rel="bookmark"
+                           title="Permalink to Effectively Editing Markdown Files in Vim">Effectively Editing Markdown Files in Vim</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <span>Thu 22 September 2016</span>
+<span>| tags: <a href="/tag/30-day-challenge.html">30 Day Challenge</a><a href="/tag/vim.html">Vim</a></span>
+</footer><!-- /.post-info -->                <p>Writing markdown is not like writing code, or even HTML at times. Markdown is almost exclusively plain English and 
+has very few tags and very little syntax, unlike HTML and all other programming languages. This puts Markdown in a
+very strange place, since it cannot be edited effectively in a …</p>
+                <a class="readmore" href="/effectively-editing-markdown-files-in-vim.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/some-useful-vim-commands.html" rel="bookmark"
+                           title="Permalink to Some Useful Vim Commands">Some Useful Vim Commands</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <span>Tue 20 September 2016</span>
+<span>| tags: <a href="/tag/30-day-challenge.html">30 Day Challenge</a><a href="/tag/vim.html">Vim</a></span>
+</footer><!-- /.post-info -->                <p>Despite many other options being available, I still use Vim daily for various tasks from taking notes to writing this post. However, I'll admit that Vim has a lot of strange and somewhat arbitrary key combinations which are quite useful. I'm going to list a few which I use daily …</p>
+                <a class="readmore" href="/some-useful-vim-commands.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/my-current-keyboard.html" rel="bookmark"
+                           title="Permalink to My Current Keyboard">My Current Keyboard</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <span>Mon 19 September 2016</span>
+<span>| tags: <a href="/tag/30-day-challenge.html">30 Day Challenge</a></span>
+</footer><!-- /.post-info -->                <p>As someone who spends a lot of time on their computer I also, by extension, spend a lot of time with my keyboard. As such, I have come to actually be very picky about my peripherals and I don't settle for a cheap or sub-par keyboard anymore. Before I come …</p>
+                <a class="readmore" href="/my-current-keyboard.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/why-i-use-vivaldi.html" rel="bookmark"
+                           title="Permalink to Why I Use Vivaldi">Why I Use Vivaldi</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <span>Sun 18 September 2016</span>
+<span>| tags: <a href="/tag/30-day-challenge.html">30 Day Challenge</a></span>
+</footer><!-- /.post-info -->                <p>About 10 years ago, I made the switch from Internet Explorer to Firefox. The internet has gone through some changes since then, but, I stuck with Firefox as my primary browser for the past 10 years. However, there is a new kid on the block, <a href="https://vivaldi.com/">Vivaldi</a>. It's an interesting little …</p>
+                <a class="readmore" href="/why-i-use-vivaldi.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/windows-10-desktops.html" rel="bookmark"
+                           title="Permalink to Windows 10 Desktops">Windows 10 Desktops</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <span>Sat 17 September 2016</span>
+<span>| tags: <a href="/tag/30-day-challenge.html">30 Day Challenge</a></span>
+</footer><!-- /.post-info -->                <p>Windows 10 is a little over a year old now with two major updates already in the hands of consumers. Today, I'd like to talk about one of the lesser known features which might have been added in an update, or it might have been a feature since launch. Either …</p>
+                <a class="readmore" href="/windows-10-desktops.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/in-defense-of-removing-the-headphone-jack.html" rel="bookmark"
+                           title="Permalink to In Defense of Removing the Headphone Jack">In Defense of Removing the Headphone Jack</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <span>Thu 15 September 2016</span>
+<span>| tags: <a href="/tag/30-day-challenge.html">30 Day Challenge</a><a href="/tag/audio.html">Audio</a></span>
+</footer><!-- /.post-info -->                <p>Apple recently made the news once again with the reveal of the iPhone 7. Along with the usual improvements and iterations one would expect from the yearly iOS update, there was one major elephant in the room: Apple confirmed rumors that they were removing the decades old 3.5mm audio …</p>
+                <a class="readmore" href="/in-defense-of-removing-the-headphone-jack.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+            </ol><!-- /#posts-list -->
+<p class="paginator">
+    Page 1 / 1
+</p>
+            </section><!-- /#content -->
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="about.md://getpelican.com/">About</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                            <li><a href="https://www.facebook.com/fhrach4">Facebook</a></li>
+                            <li><a href="https://www.github.com/fhrach4">GitHub</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <p>Powered by <a href="http://getpelican.com/">Pelican</a>. Theme <a href="https://github.com/blueicefield/pelican-blueidea/">blueidea</a>, inspired by the default theme.</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

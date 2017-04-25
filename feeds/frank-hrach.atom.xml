@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>HrachBlog - Frank Hrach</title><link href="/" rel="alternate"></link><link href="/feeds/frank-hrach.atom.xml" rel="self"></link><id>/</id><updated>2016-10-03T00:00:00-04:00</updated><entry><title>Long Post Incoming</title><link href="/long-post-incoming.html" rel="alternate"></link><published>2016-10-03T00:00:00-04:00</published><updated>2016-10-03T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-10-03:/long-post-incoming.html</id><summary type="html">&lt;p&gt;I have a long article about music in video games coming, but it's taking me longer than planned to gather
+information and write it. It should be coming in the next coupe of days. I haven't forgotten this challenge, don't
+worry!&lt;/p&gt;</summary><content type="html">&lt;p&gt;I have a long article about music in video games coming, but it's taking me longer than planned to gather
+information and write it. It should be coming in the next coupe of days. I haven't forgotten this challenge, don't
+worry!&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>Checkpoints</title><link href="/checkpoints.html" rel="alternate"></link><published>2016-10-02T00:00:00-04:00</published><updated>2016-10-02T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-10-02:/checkpoints.html</id><summary type="html">&lt;p&gt;Recently I've been playing through Doom 2016 again, this time on Nightmare difficulty. Perhaps I was a touch
+foolish to jump into the game after a few months of not playing on the hardest sane difficult, but I have been able
+to get very intimate with the checkpoint system, and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Recently I've been playing through Doom 2016 again, this time on Nightmare difficulty. Perhaps I was a touch
+foolish to jump into the game after a few months of not playing on the hardest sane difficult, but I have been able
+to get very intimate with the checkpoint system, and thought I'd say a few things on checkpoint systems in general.&lt;/p&gt;
+&lt;p&gt;There are two main ways to save progress in a level: user controlled savestates and checkpoints. For the sake of
+clarification, savestates (sometimes called quicksaves) are when the user or application quickly saves the current
+state of the game at anytime or at specific points. This style is most common in open-world games, with the
+quintessential example being any Bethesda RPG. You mash F5 to save at any time, and the game saves automatically at
+times, usually at major load zones to minimize progress lost due to crashes. The other, and much older way, is the
+checkpoint system. This is used in  too many games to count, but they tend to be linear in nature. A very old
+example of this is Super Mario Brothers. In every level, except for world 8, there is a half-way point where the
+player can restart from if they die during the level.These two different styles serve very different purposes and
+deeply influence the way the player interacts with the game.&lt;/p&gt;
+&lt;p&gt;Checkpoints force the player to play on the developers terms- they concede some freedom in order to get a more
+refined experience from the game. A good checkpoint system actually decreases the difficulty of the game, but makes
+it more engaging experience by constantly presenting the player with a fresh challenge. The player doesn't want to
+constantly do challenges they've already completed over and over again, which they may find trivial, because they
+keep failing on a later and more difficult portion of a level. This is most noticeable in linear FPS games. Go load
+up any Call of Duty Campaign, and you'll see what I mean. You never restart from an area right before a long
+walking section or a part with a lot of dialogue. Checkpoints always place the player right at the beginning of a
+section with a lot of combat or action, letting them get back into the action while the adrenaline is still pumping
+if they fail. It's a way to keep the user pumped up and motivated, because there is nothing more tortious then
+being forced to re-do a long walking or talking section when the call of battle is five minutes away.&lt;/p&gt;
+&lt;p&gt;On the other end of the coin, savestates make the player nearly entirely responsible for their own progress and
+experience. This puts a lot of responsibility on the player. In many games with this kind of system, the player can
+easily get themselves into an unwinnable situation, or lose hours of progress if they're not careful. However, this
+system works very well for non-linear or open-world games where the developer cannot control nor predict the
+experience the player will have nearly as well as in a linear game. The player having this responsibility gives
+them the flexibility to determine where they want to restart after they fail.&lt;/p&gt;
+&lt;p&gt;This brings me to Doom 2016. Both Doom and Doom II used the savestate system, with the player in complete control
+over their restart points. This fit well with the open nature of the levels. Essentially, every Doom level was
+an open world maze in which Doomguy murdered and explored his way through, encouraging the player to save
+frequently and scour the level to look for secrets. Doom 2016's levels are in the same style, but feature a
+checkpoint system. This works wonderfully during the initial parts of the level, and it saves before nearly every
+encounter. However, once the player begins to backtrack to find secrets it begins to fall apart. Several times the
+player might be presented with an encounter without a save beforehand, which can be quite annoying to keep running
+towards after failing it on higher difficulties. In other cases, there are platforming sections for secrets where
+the player might fall and die, resulting in a frustrating walk to get back since they couldn't simply couldn't
+restart where they wanted to. This is not the end of the world, but once again, is very frustrating and can take
+the player out of the game immensely.&lt;/p&gt;
+&lt;p&gt;On the whole, Doom 2016's checkpoints work pretty well, frustrations aside, though, I can't help but feel that the
+savestate system from the older titles was better suited for the style of play.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>The Thoughtfulness of Windows Phone 8.1</title><link href="/the-thoughtfulness-of-windows-phone-81.html" rel="alternate"></link><published>2016-09-29T00:00:00-04:00</published><updated>2016-09-29T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-29:/the-thoughtfulness-of-windows-phone-81.html</id><summary type="html">&lt;p&gt;In my previous post, I mentioned that the best phone I had ever owned was the Nokia Lumia 920. While the hardware
+was excellent, a large part of my fondness for the device is due to its operating system: Windows 8.1 Mobile.
+Windows phone is the butt of many …&lt;/p&gt;</summary><content type="html">&lt;p&gt;In my previous post, I mentioned that the best phone I had ever owned was the Nokia Lumia 920. While the hardware
+was excellent, a large part of my fondness for the device is due to its operating system: Windows 8.1 Mobile.
+Windows phone is the butt of many jokes, but really, the other two contenders in the mobile OS space could learn a
+lot from some of the design choices of Windows Phone.&lt;/p&gt;
+&lt;h3&gt;Multitasking&lt;/h3&gt;
+&lt;p&gt;One of the things Windows phone does exceptionally well is handling multiple applications running at once. Each
+application runs in a sandbox, not unlike a docker container. This allows the phone to easily "hibernate" an
+application when it is sent to the background, instead of the phone trying to run every application all at once,
+and closing them when resources are needed. This model, however, does not allow for background tasks as only one
+application can be "awake" and running at a time. This is solved by applications being able to register a
+&lt;em&gt;background service&lt;/em&gt; which can always run even when the application is not in the foreground. These use fewer
+resources than the main application, and the user can allow or disallow any application from running in the
+background if they wish. The advantage of this system, is even very-low end phones don't suffer performance
+penalties from having many applications open, and, it enables the user to have more control over their battery life
+as no service can run by accident in the background.&lt;/p&gt;
+&lt;h3&gt;Calendar and Mail&lt;/h3&gt;
+&lt;p&gt;One of the most useful features of Windows Phone was how it handled email. Call me old fashioned, but 99% of my
+phone's use time is dealing with calendar and email. The way Windows Phone handled these wasn't too different from
+many competitors: you simply registered your account with the operating system, and applications could ask for the
+main update service to retrieve information from the accounts based off of a permission system. Applications could,
+of course, store and authenticate with their own set of credentials not managed by the operating system, but for
+any services from Google, Microsoft, Amazon, etc. it was much more convenient to use the credential store since the
+account was most likely going to be used in multiple applications. The key difference with Windows Phone was the
+sheer number of third-party accounts this worked with. This is most likely only because Windows Pone never managed
+to get above 7% of the US smartphone market share, so they had to accommodate as many platforms as possible instead
+of being able to leverage their position to force everyone to use their platform.&lt;/p&gt;
+&lt;p&gt;Because the operating system handles account authentication for mail, that means that the operating system itself
+can manage reminders and mail tasks. This has several advantages: you are not blindly trusting a third-party
+application with your login information, and, it lets the OS take actions to optimize various aspects. The first
+part is self-explanatory, since the application never directly sees your username and password, a malicious
+application can not take the information. The latter tends to be rather silent but useful: the operating system can
+change the frequency that an account is updated, and thus saving power, dynamically based off of usage.&lt;/p&gt;
+&lt;h3&gt;Music&lt;/h3&gt;
+&lt;p&gt;Somehow, the secondary function of my phone is not to take calls, it's to play music, and Windows Phone set the
+standard I use for judging media controls. Playing music works like any other device, naturally, but the controls
+are all placed in logical and thoughtful places. For example, as soon as a background task playing music is
+registered, the lock-screen is replaced with fully functional media controls. These are much easier to use than
+other smartphones I've used since the entire lock-screen changes to accommodate the new primary task, instead of
+placing a small set of controls. The other incredibly useful feature is that a minimal set of controls (next,
+previous, and play/pause) appears on the volume screen. When the volume button is pressed up or down, a card slides
+down from the top of the screen. When music is playing, the controls are added to that menu. This enables the user
+to pause their music or skip a song they don't like even while in a different application.&lt;/p&gt;
+&lt;p&gt;Overall, there are quite a few very well though out aspects of Windows Phone as a platform. It appears that the
+platform will not survive five more years in the current market, but perhaps some of these design choices can come
+to other platforms.&lt;/p&gt;</content><category term="30 Day Challenge"></category><category term="Mobile"></category></entry><entry><title>The Android Problem</title><link href="/the-android-problem.html" rel="alternate"></link><published>2016-09-28T00:00:00-04:00</published><updated>2016-09-28T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-28:/the-android-problem.html</id><summary type="html">&lt;p&gt;I have a somewhat mixed history with smartphones. Initially, I didn't see the point in them at all and stuck with
+my flip-phone until sometime around 2011, my hesitation being mostly due to power concerns and not wanting my GPS,
+phone, calendar, and audio player running out of battery all …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I have a somewhat mixed history with smartphones. Initially, I didn't see the point in them at all and stuck with
+my flip-phone until sometime around 2011, my hesitation being mostly due to power concerns and not wanting my GPS,
+phone, calendar, and audio player running out of battery all at once. Needless to say I stopped caring about that
+issue and simply devised ways to prevent the device from ever running out of power. I clearly remember my first
+phone, the HTC Inspire. Sadly, that phone was released right before Android started to essentially require a
+dual-core processor; I only had about six months to a year of comfortable usage out of it before it was painfully
+obvious that the phone was not powerful enough for the operating system of the day.&lt;/p&gt;
+&lt;p&gt;In 2013, I switched to a Nokia Lumia 920. Call me crazy, but that has been without a doubt, the best phone I've
+ever had. Sure, Windows Phone had net to no applications and market share, but the build quality was excellent, the
+camera superb, and the battery life is still the longest of any phone I've owned to date. Sadly, the digitizer died
+on that phone in 2015 and due to the cost of the repair, I simply purchased a new phone. (Though if anyone wants a
+used Lumia 920 with a broken digitizer, contact me, I'm willing to sell. The phone still works amazingly
+otherwise).&lt;/p&gt;
+&lt;p&gt;My next phone was the Lumia 935, a budget phone I bought for $50. I discovered that Windows Phone shines on
+lower-end devices as there was virtually no difference in experience between my top-of-the-line 920 and the
+bargain-bin 935, save for a few luxury features such as an ambient light sensor to automatically change screen
+brightness. I intended for the 935 to be a hold-over until the eventual release of the 950 later that year, but
+that's not exactly what happened. The 950 eventually ended up being released, but at the absolutely insane price-point
+of $599. The closest competitor I saw as the Google Nexus 5X, for a measly $399 by comparison. Needless to say, I
+jumped ship for and was on Android once again.&lt;/p&gt;
+&lt;p&gt;Being back on Android made me realize an important thing: Android is incredibly open and yet incredibly closed at
+the same time. Time and time again, I came to realize that what I, and most people, think of as "Android" is
+actually Google's Ecosystem, and with each update the two become more and more difficult to separate. Quite
+possibly, the best example I can think of is Google Now. For the unaware, Google Now is a digital assistant and
+wrapper around Google's search engine. It can do many useful things such as tell you about flights, remind you to
+pay bills, and remind you to leave for appointments. To accomplish all of these tasks, it requires access to your
+email and calendar, however, there is no way to add a third party service for either of these. I have used Outlook
+for my calendar for many, many, years, even longer than Google has even &lt;em&gt;had&lt;/em&gt; a calendar application and switching
+is too much work, but, Google Now simply cannot read a non-google calendar, and does not appear to have a way to
+add a remote calendar from their web interface.&lt;/p&gt;
+&lt;p&gt;This upsets me, since Android used to be hailed as the alternative to iOS where the user had control over their
+experience and Google used to embrace and support that. However, the Android of today is no different than iOS,
+with Google desperately trying to keep more more people in their walled-garden of services instead of supporting
+alternative as they once did. Perhaps I'll take the plunge and install a custom ROM in the future, but for now,
+I'll complain about it on the internet.&lt;/p&gt;</content><category term="30 Day Challenge"></category><category term="Mobile"></category></entry><entry><title>GeForce Experience</title><link href="/geforce-experience.html" rel="alternate"></link><published>2016-09-27T00:00:00-04:00</published><updated>2016-09-27T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-27:/geforce-experience.html</id><summary type="html">&lt;p&gt;The NVidia vs. AMD competition is less of a debate, and more of a fact of life at this point. AMD will continue to
+play second fiddle and make better value graphics cards, but if you value performance over all else you will always
+buy NVidia. This unchanging market has …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The NVidia vs. AMD competition is less of a debate, and more of a fact of life at this point. AMD will continue to
+play second fiddle and make better value graphics cards, but if you value performance over all else you will always
+buy NVidia. This unchanging market has started to become anti-consumer in recent years. NVidia has slowly begun to
+abuse its market dominance to both raise the price of cards, and push more and more unnecessary products on its
+users.&lt;/p&gt;
+&lt;p&gt;The latest in this series of business decisions is the update to GeForce Experience. For those who are unaware,
+GeForce Experience is a program which downloads optimal settings for games based off of your system specs and
+includes a number of utilities provided by NVidia such as shadowplay. No one ever uses either of these two
+features, and instead, GeForce experience is nothing more than a glorified auto-updater for graphics drivers. Gone
+were the days of going to a website, downloading an installer, and running it every time there was a minor update
+to the graphics driver. For a brief, glorious, period, GeForce Experience did all of the above features with the
+added bonus of downloading and installing updated drivers when they became available. And then version 3.0 came
+out.&lt;/p&gt;
+&lt;p&gt;Starting in version 3.0, usage of GeForce Experience requires the user to create an account, the reasoning being
+that NVidia can sync settings between your computers. This is a load of grade A bullshit. I don't want my setting
+synced across my computers, I only have one computer with an NVidia graphics card, and if I had a laptop with one,
+I'd want to have a different set of in-game settings because it would be a less powerful machine. The &lt;em&gt;only&lt;/em&gt; thing
+I want GeForce Experience to do is to connect to NVidia's website and download drivers. This now &lt;strong&gt;requires&lt;/strong&gt; I be
+logged in to NVidia's bullshit service. We all know the reason they are doing this is to generate user profiles for
+advertisers. Once they can associate your playing and purchase habits with a username, they can use that
+information for market research and to sell advertising space. It is a disturbingly common practice in this day and
+age, and the worst part is I'll still use it. NVidia makes their installers such a pain to download and use and
+they &lt;strong&gt;know&lt;/strong&gt; most people will be like me and simply deal with it because the convenience of using their service
+beats out their archaic and needlessly painful old install process. The only reason they can get away with this
+shit is because AMD hasn't managed to put out a truly competitive card in years.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>Fixing Vim Color Errors in Tmux</title><link href="/fixing-vim-color-errors-in-tmux.html" rel="alternate"></link><published>2016-09-26T00:00:00-04:00</published><updated>2016-09-26T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-26:/fixing-vim-color-errors-in-tmux.html</id><summary type="html">&lt;p&gt;As it is for many, tmux is an irreplaceable part of my workflow, however, anyone who has a 256color color scheme in
+vim is familiar with this picture:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Background bleeding in tmux" src="images/bad_256-term.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;Thankfully, this is easily fixed with a simple modification to your vimrc.&lt;/p&gt;
+&lt;p&gt;I'm not exactly sure why the following snippet fixes this …&lt;/p&gt;</summary><content type="html">&lt;p&gt;As it is for many, tmux is an irreplaceable part of my workflow, however, anyone who has a 256color color scheme in
+vim is familiar with this picture:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Background bleeding in tmux" src="images/bad_256-term.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;Thankfully, this is easily fixed with a simple modification to your vimrc.&lt;/p&gt;
+&lt;p&gt;I'm not exactly sure why the following snippet fixes this, but setting &lt;code&gt;t_ut&lt;/code&gt; to blank fixes the issue. I am unsure
+of how this effects vim's normal coloring, so, it never hurts to check for the specific case.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;if &amp;amp;term =~ 256color
+    t_ut=
+end if
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;It's that easy!&lt;/p&gt;</content><category term="30 Day Challenge"></category><category term="Vim"></category></entry><entry><title>Making Smarter Ads</title><link href="/making-smarter-ads.html" rel="alternate"></link><published>2016-09-25T00:00:00-04:00</published><updated>2016-09-25T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-25:/making-smarter-ads.html</id><summary type="html">&lt;p&gt;Advertisements make the world wide web as we know it possible. This is a truth that most don't like to hear,
+however, don't mistake this sentiment as judgement for using an ad-blocker. There are plenty of legitimate reasons
+to use one, ranging from protecting your system from malicious code, to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Advertisements make the world wide web as we know it possible. This is a truth that most don't like to hear,
+however, don't mistake this sentiment as judgement for using an ad-blocker. There are plenty of legitimate reasons
+to use one, ranging from protecting your system from malicious code, to making websites usable, increasing the
+page-load speed and overall responsiveness, or simply to protect your datacap. It's pretty much accepted that the
+modern web is nearly impossible to use without software to block ads, and it is fully in the user's right to block
+content from being displayed on &lt;em&gt;their&lt;/em&gt; system. However, it is in all of our best interests for the web to remain
+free and open, and sadly, no one has come up with an acceptable alternative beyond selling ad-space.&lt;/p&gt;
+&lt;p&gt;I believe, however, a balance can be struck. While I am adamantly against Ad Block Plus's
+&lt;a href="https://adblockplus.org/acceptable-ads#criteria-general"&gt;acceptable advertising campaign&lt;/a&gt;, I believe a set of
+guidelines like they outline has merit. The major flaw with the system ABP as in place is they act as the final
+arbiter of what is acceptable and what is not, and, they reserve the right to replace content on the screen with
+their own. So, if your ad-network is not on their list, they will replace the element with their own content.
+Frankly, it reminds me of a Mafia-style shakedown: "That's a real nice pageview you have there... it would be a
+shame if someone were to... block it. Pay us to have your ad-network white-listed... or we might have to block your
+content... see?" Perhaps that's a bit hyperbolic, but it doesn't sit well with me when the company making money
+off of selling the space is also determining what is acceptable and reserve the right to change content at any time
+without the page-owner's or users direct content.&lt;/p&gt;
+&lt;p&gt;However, I believe that an acceptable advertising standard could be a very good thing if it is administered by a
+neutral third party, perhaps a group of ad-networks, or many major web-hosters. They could set standards such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Content must be less than 2MB in size&lt;/li&gt;
+&lt;li&gt;Content must not add more than 200ms of time to a fresh pageload&lt;/li&gt;
+&lt;li&gt;Scripts should be limited to the bare minimum required to track and serve the advertisement&lt;/li&gt;
+&lt;li&gt;Video ads should be limited to 5 seconds long&lt;/li&gt;
+&lt;li&gt;Content must not obscure the screen or other elements in the page in any way&lt;/li&gt;
+&lt;li&gt;Content must not be deceptive, and try and mimic system messages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Obviously, these guidelines would be much more deeply thought out and nuanced then what is listed above, however,
+the important prat is that no one should profit from the guidelines; they should be drafted and managed by a
+neutral third party, or, enough competing corporations be involved that no one can swing the guidelines in their
+favor. Perhaps the W3C should consider drafting this standard, officially securing its neutrality. Either way, food
+for thought.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>YouTube Heroes</title><link href="/youtube-heroes.html" rel="alternate"></link><published>2016-09-24T00:00:00-04:00</published><updated>2016-09-24T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-24:/youtube-heroes.html</id><summary type="html">&lt;p&gt;I'll admit this is low-hanging fruit, but, this needs to be said: &lt;a href="https://www.youtube.com/watch?v=Wh_1966vaIA"&gt;YouTube Heroes&lt;/a&gt; is proof that YouTube both doesn't
+understand and can act without fear of failure due to it's position in the market. I may not be a content creator,
+but I spend a lot of time on …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I'll admit this is low-hanging fruit, but, this needs to be said: &lt;a href="https://www.youtube.com/watch?v=Wh_1966vaIA"&gt;YouTube Heroes&lt;/a&gt; is proof that YouTube both doesn't
+understand and can act without fear of failure due to it's position in the market. I may not be a content creator,
+but I spend a lot of time on YouTube, sometimes, I even dive into the comments section sometimes. I can say that,
+without a doubt, YouTube Heroes will be a negative force for the website.&lt;/p&gt;
+&lt;h3&gt;YouTube Is Out of Touch With its Users&lt;/h3&gt;
+&lt;p&gt;If anything, the release of YouTube Heroes confirms that the YouTube staff has no idea what the users of it's
+website want or need. I constantly hear content creators complain that they don't have the moderation tools they
+need to properly manage their comment sections, to the point that may simply disable them and direct their viewers
+to Reddit or Twitter to discuss the video. Specifically, a common complaint I hear is moderators are unable to hide
+a user's comment, they can only ban users. Bans don't work on trolls, since they will just create a new account and
+say something even more vile and inflammatory, fueled by the knowledge that they are getting a reaction from both
+the owner of the channel and the rest of the comment section. A much more useful tool, is to simply hide the
+comment or account so that no one can see it. It takes much more time for a troll to figure out that no one can see
+what they wrote, always leaving the possibility that no one is taking their bait. The kicker here is, only the
+channel admin has the ability to do this, not any of the moderates they appoint. A simple fix for the comments
+section, assuming that the goal of YouTube Heroes is to clean up the site, would be to simply give moderators that
+ability as well. Instead, YouTube thought that a good solution was to let members of the community who prove
+themselves through a perverse set of incentives.&lt;/p&gt;
+&lt;p&gt;And here lies the biggest problem with the YouTube Heroes program. Members earn points to "level up" and receive
+new abilities and benefits. A few of the tasks are relatively harmless, such as answering a question on a help
+forum or submitting some subtitles for a video that get accepted, however, most rely on moderating user-generated
+content. Additionally, the system rewards flagging videos, comments, and other moderation features far more than
+the other and more helpful contributions. Even more concerning, is at level 3, users are granted the ability to
+bulk-flag videos. I cannot imagine how this passed any meeting, since community moderation like that &lt;em&gt;never&lt;/em&gt; works
+as soon as personal politics get involved, just take a look at any mildly controversial Wikipedia article's
+discussion page. All that will result in is a ton of flags because a user doesn't like the content of a video
+instead of for legitimate reasons for breaking rules.&lt;/p&gt;
+&lt;h3&gt;YouTube is a Monopoly&lt;/h3&gt;
+&lt;p&gt;If these features were launched on just about any other website, there would be a mass exodus of users to an
+alternative platform- the &lt;a href="http://reddithistory.wikia.com/wiki/Digg_exodus"&gt;Great Digg Migration / Reddit Exodus&lt;/a&gt;
+comes to mind. However, there is no suitable place on the internet to replace YouTube. A video site lives and dies
+by it's viewers and content creators. There needs to be a large enough viewer base to attract content creators,
+and, content creators need to make new content to keep users. This creates a chicken-and-egg problem where a new
+platform has both no users and no content creators so there is no reason for users to switch. Furthermore, even if
+there is a reason to switch, the startup costs and risks of a video streaming website are so high that there are
+nearly zero new video websites, at least, video websites that let anyone upload whatever they want to get started.
+Since they have, essentially, zero risk of failure, YouTube has made a long series of awful decisions which the
+users hate, but, they have nowhere else to go. YouTube is where both the viewers and content creators are, and
+sadly, I don't see that changing anytime soon.&lt;/p&gt;</content><category term="30 Day Challenge"></category><category term="YouTube"></category></entry><entry><title>Balancing Snipers in Video Games</title><link href="/balancing-snipers-in-video-games.html" rel="alternate"></link><published>2016-09-23T00:00:00-04:00</published><updated>2016-09-23T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-23:/balancing-snipers-in-video-games.html</id><summary type="html">&lt;p&gt;Ah sniping, The most romanticised form of gunplay in many videogames. I can certainly understand the allure,
+sitting back, stalking your prey, deciding who to take out in a single, well-placed, shot. Good snipers are
+respected and feared, picking of priority targets, and making the enemy team fear poking their …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ah sniping, The most romanticised form of gunplay in many videogames. I can certainly understand the allure,
+sitting back, stalking your prey, deciding who to take out in a single, well-placed, shot. Good snipers are
+respected and feared, picking of priority targets, and making the enemy team fear poking their heads out for even a
+second. However, that version of the sniper is rarely a reality, especially in Overwatch.&lt;/p&gt;
+&lt;p&gt;Overwatch teams are very small compared to most other FPS games. Battlefield has up to 64 players, Team Fortress 2
+is balanced around 24, and Call of Duty games generally have 16. A full game of Overwatch only has 12 players, so,
+every pick is very important, and each player matters a lot. The sniper's role, in Overwatch is to provide
+information on the enemy team's positions using abilities, and, to apply pressure and eliminate important members
+from the enemy team (usually the support classes) with well placed shots. However, this role is very, very, map
+dependant and more frequently than not, the Sniper is a player who would be better off playing another offense or
+defence class simply because they would do more damage and deter the enemy team by being a non-sniping class, or,
+enabling the other players to live longer by playing a support class. Furthermore, the wall-hack abilities of these
+classes are nice, but, they accomplish little more than a team who effectively talks to each other.&lt;/p&gt;
+&lt;p&gt;However, despite this, there is a lot of Hanzo being played, and nearly no Widowmaker.&lt;/p&gt;
+&lt;p&gt;This most likely down to map design. Very few maps allow for these long sight lines, which, puts Hanzo at an advantage
+because his bow is much more effective at medium range combat than Widomaker's rifle. Furthermore, both snipers are
+often forced to engage on the enemy's terms, being forced to fight at close or even medium range, due to the number of
+routes to nearly every sniper spot. Additionally, Blizzard nerfed Widowmaker's aim-down-sights time, and, increased the
+cooldown on her movement ability, making it very difficult for her to actually get into position, and even more
+difficult to escape from pressure. Hanzo fairs better, since the hitbox for his bow is very, very, forgiving.
+Additionally, Hanzo's fire-rate far outclasses that of Widow's with less zoom so it is easier to hit a closer target,
+and, Hanzo's wall-climb has no cooldown at all, making his primary advanced movement option far superior to Widow's.
+Finally, Hanzo received a buff in the last patch, increasing his movement speed while aiming, which, keeps him mobile
+even when lining up a shot, unlike Widowmaker once more.&lt;/p&gt;
+&lt;p&gt;As it stands, Sniper is a questionable role to fill in the first place, and, Hanzo is nearly always the better pick
+due to his fire-rate, movement options, and more forgiving hit-detection. I'd like to see the choice between
+snipers to be much more nuanced decision. The buffs to Widow in the PTR look promising, but personally, I believe
+that a cooldown reduction on Widow's movement ability is needed as well.&lt;/p&gt;</content><category term="30 Day Challenge"></category><category term="Overwatch"></category></entry><entry><title>Effectively Editing Markdown Files in Vim</title><link href="/effectively-editing-markdown-files-in-vim.html" rel="alternate"></link><published>2016-09-22T00:00:00-04:00</published><updated>2016-09-22T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-22:/effectively-editing-markdown-files-in-vim.html</id><summary type="html">&lt;p&gt;Writing markdown is not like writing code, or even HTML at times. Markdown is almost exclusively plain English and 
+has very few tags and very little syntax, unlike HTML and all other programming languages. This puts Markdown in a
+very strange place, since it cannot be edited effectively in a …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Writing markdown is not like writing code, or even HTML at times. Markdown is almost exclusively plain English and 
+has very few tags and very little syntax, unlike HTML and all other programming languages. This puts Markdown in a
+very strange place, since it cannot be edited effectively in a traditional word processor, and, it's structure
+makes it a poor fit for many text editors. I played around with many different editors, including Sublime, Atom,
+and even Visual Studio Code. The best fit was probably Atom, however, it's spell-checking is very inefficient to
+use, or at least, I never was able to find a quick way to make corrections. This is perfectly fine, of course, Atom
+is meant as a text editor for code, seemingly JavaScript,  where spelling is not important at all. But, I have the
+English-language ability of a paper bag, and essentially require a spell-checker to not make numerous errors
+without fail.&lt;/p&gt;
+&lt;p&gt;Eventually, I ended up back at my roots, so to speak, using Vim. However, Vim is also completely awful for Markdown
+by default as well, however, I know how to configure it and there is a very robust community which has fixed the
+vast majority of issues I encountered.&lt;/p&gt;
+&lt;h1&gt;Vimrc Changes&lt;/h1&gt;
+&lt;p&gt;By default, Vim does not recognize Markdown files as a filetype. This is fixed with a script later, but it is also
+entirely possible to fix without the script by simply adding the following to your .vimrc:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;filetype on
+filetype plugin on
+au BufNewFile,BufFilePre,BufRead *.md set filetype=markdown
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Now markdown files can be treated like any other file type. Personally, I added the following to make my markdown
+edition experience more pleasurable:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&amp;quot;&amp;quot; Markdown
+au FileType markdown set spell
+au FileType markdown set autoindent
+au FileType markdown set smartindent
+au FileType markdown set list
+au FileType markdown set lcs=tab:&amp;gt;-
+au FileType markdown set textwidth=115
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;There's nothing too fancy here. &lt;code&gt;spell&lt;/code&gt; is simply enabled because I fail tremendously at the English language.
+&lt;code&gt;autoindent&lt;/code&gt; and &lt;code&gt;smartindent&lt;/code&gt; are both enabled to make editing lists require less liberal use of the tab key.
+&lt;code&gt;list&lt;/code&gt; and &lt;code&gt;lcs=tab:&amp;gt;-&lt;/code&gt; work together to display the indentation levels when they are present. I find this makes it
+much easier to determine which level I'm writing at in long chains of lists, which, often happens while I'm taking
+notes. Finally, &lt;code&gt;textwidth=115&lt;/code&gt; is something I'm still playing with. It forces Vim to start a new line once it
+reaches 115 characters which is useful because it is very painful to edit extremely long lines. However, this value
+will mostly likely change because 115 is a bit too small on a 1080p monitor, and, too wide for a split view on my
+laptop's puny 1600x900 monitor.&lt;/p&gt;
+&lt;h1&gt;Markdown.vim&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://github.com/plasticboy/vim-markdown"&gt;Markdown.vim&lt;/a&gt; is a script which adds proper detection of markdown
+filetypes, adds syntax highlighting support, and, includes some features which some may find useful. It works
+pretty well out of the box, however, a few small changes were required for me personally. The section in my
+.vimrc is as follows:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&amp;quot;&amp;quot; Markdown.vim
+let g:vim_markdown_folding_disabled = 1
+let g:vim_markdown_conceal = 0
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The only changes above disable folding when a file is opened, which I find particularly obnoxious, and disables
+ concealing. Concealing, in this context, hides the contents of a link while editing to save space. I actually
+ haven't used Markdown.vim too much, so, I will do an article in the future outlining some more advanced features
+ and customizations that I will eventually learn to use and decide on.&lt;/p&gt;</content><category term="30 Day Challenge"></category><category term="Vim"></category></entry><entry><title>Taking Notes With Markdown and Pandoc</title><link href="/taking-notes-with-markdown-and-pandoc.html" rel="alternate"></link><published>2016-09-21T00:00:00-04:00</published><updated>2016-09-21T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-21:/taking-notes-with-markdown-and-pandoc.html</id><summary type="html">&lt;h3&gt;Installing&lt;/h3&gt;
+&lt;p&gt;A friend of mine suggested that I try and type my notes in markdown format instead of typing them all into plain text. I decided to take his advice after he listed off some of the advantages of doing so. Firstly, the notes are very portable and can be …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Installing&lt;/h3&gt;
+&lt;p&gt;A friend of mine suggested that I try and type my notes in markdown format instead of typing them all into plain text. I decided to take his advice after he listed off some of the advantages of doing so. Firstly, the notes are very portable and can be complied into a number of different formats as needed, notably into PDF, HTML, and even into presentations with a little know-how. Secondly, it allows for notes to be read and searched much more easily because PDFs are much comfortable and readable than raw text files on mobile devices. Finally, the notes look immaculate with very little effort, at least, compared to the amount of formatting required for an equivalent Word or OneNote document. By focusing on the content and not the format of my notes, it lets me concentrate on the actual content, and ultimately, take better notes.&lt;/p&gt;
+&lt;p&gt;Getting Pandoc setup is easy and is available on just about every OS. Either download it from your OS's software repos, or, get a pre-built version from their &lt;a href="https://github.com/jgm/pandoc/releases/tag/1.17.2"&gt;download page&lt;/a&gt;. After it's installed, it's useful to have a LaTeX compiler installed, and it is required for exporting a PDF. Take a look at Pandoc's &lt;a href="http://pandoc.org/installing.html"&gt;installation guide&lt;/a&gt; to find out which LaTeX implementations it works with. Once you've installed these, you're good to go!&lt;/p&gt;
+&lt;h3&gt;Metadata&lt;/h3&gt;
+&lt;p&gt;Pandoc supplies a format to define the title, author, and date modified for the document. Which can be used as follows:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c"&gt;% Title Goes here&lt;/span&gt;
+&lt;span class="c"&gt;% Authors Go Here; Separated by Semicolons&lt;/span&gt;
+&lt;span class="c"&gt;% Date; Separated by Semicolons&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;If the title is long enough that you want to control how many lines it takes up manually, simply do the following:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c"&gt;% Title Line One&lt;/span&gt;
+  &lt;span class="n"&gt;Title&lt;/span&gt; &lt;span class="n"&gt;Line&lt;/span&gt; &lt;span class="n"&gt;Two&lt;/span&gt;
+&lt;span class="c"&gt;% Authors Go Here; Separated by Semicolons&lt;/span&gt;
+&lt;span class="c"&gt;% Date; Separated by Semicolons&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h3&gt;Note Taking&lt;/h3&gt;
+&lt;p&gt;This is entirely up to you! However, I recommend using headers as the primary form of organization because Pandoc forms a full interactive tree in the PDF allowing you to easily find and jump between sections. Headers in markdown are easy a level 1 header is just &lt;code&gt;#I Am a Level One Header&lt;/code&gt; and a level 2 is simply &lt;code&gt;##I Am a Level Two Header&lt;/code&gt; and so on and so forth. For readability purposes, I generally use mostly Level One and Level Three headers.&lt;/p&gt;
+&lt;p&gt;There are two kinds of lists, just like HTML, ordered lists and unordered lists. Their names are self explanatory, so, to make an unordered list, simply place an &lt;code&gt;*&lt;/code&gt; before each line, and place each member of the list on a different line. For an ordered list, simply replace the asterisk with &lt;code&gt;1.&lt;/code&gt;, &lt;code&gt;2.&lt;/code&gt;, etc. For either type, to add a sublist simply indent the asterisk or number. It is important to note that markdown requires there to be two newlines between a paragraph and the start of a list, otherwise, it doesn't become a list. So to have a list after a paragraph of normal text, it must be formated similar to the following:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;I am a paragraph with some text
+
+1. I am an ordered List
+2. I am an ordered List
+    1. I am an ordered sub-list
+3. I am an ordered List
+    * I am an unordered sub-list
+
+* I am an unordered list
+* I am an unordered list
+    1. I am an ordered sub-list
+* I am an unordered list
+    * I am an unordered sub-list
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h3&gt;Compiling To a PDF&lt;/h3&gt;
+&lt;p&gt;Once you're ready to convert, simply run the following command to exporta as a PDF:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pandoc some_file.md -s -o some_file.pdf
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;And that's it! After the command completes there will be a pdf with your notes converted into a beautiful document.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>Some Useful Vim Commands</title><link href="/some-useful-vim-commands.html" rel="alternate"></link><published>2016-09-20T00:00:00-04:00</published><updated>2016-09-20T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-20:/some-useful-vim-commands.html</id><summary type="html">&lt;p&gt;Despite many other options being available, I still use Vim daily for various tasks from taking notes to writing this post. However, I'll admit that Vim has a lot of strange and somewhat arbitrary key combinations which are quite useful. I'm going to list a few which I use daily …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Despite many other options being available, I still use Vim daily for various tasks from taking notes to writing this post. However, I'll admit that Vim has a lot of strange and somewhat arbitrary key combinations which are quite useful. I'm going to list a few which I use daily which might not be common knowledge or I frequently forget.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;Mode&lt;/th&gt;
+&lt;th align="left"&gt;Keystrokes&lt;/th&gt;
+&lt;th align="left"&gt;Effect&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;$&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Moves the cursor to the end of the current line&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;0&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Moves the cursor to the first non-whitespace character of the current line&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;shift+j&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Joins the current line with the line below it&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;~&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Toggles between capital and lowercase letters under the cursor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;]s&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Moves to the next misspelled word&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;[s&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Moves to the previous misspelled word&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Insert&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;ctrl+x s&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Brings up a list of suggestions if a misspelled word is after the cursor. The list can be navagiated with &lt;code&gt;ctrl+n&lt;/code&gt; and &lt;code&gt;ctrl+p&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;ctrl+a&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;If the cursor is over a number, increments it by 1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;ctrl+x&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;If the cursor is over a number, decrements it by 1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;z=&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;If &lt;code&gt;set spell&lt;/code&gt; and the cursor is over a misspelled word, will bring up a list of correcton candidates&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;shift+h&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Moves the cursor to the top of the screen&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Visual Block&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;shift+I&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Enters insert mode and inserts whatever is typed in each highlighted square&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content><category term="30 Day Challenge"></category><category term="Vim"></category></entry><entry><title>My Current Keyboard</title><link href="/my-current-keyboard.html" rel="alternate"></link><published>2016-09-19T00:00:00-04:00</published><updated>2016-09-19T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-19:/my-current-keyboard.html</id><summary type="html">&lt;p&gt;As someone who spends a lot of time on their computer I also, by extension, spend a lot of time with my keyboard. As such, I have come to actually be very picky about my peripherals and I don't settle for a cheap or sub-par keyboard anymore. Before I come …&lt;/p&gt;</summary><content type="html">&lt;p&gt;As someone who spends a lot of time on their computer I also, by extension, spend a lot of time with my keyboard. As such, I have come to actually be very picky about my peripherals and I don't settle for a cheap or sub-par keyboard anymore. Before I come off as some elitist snob, let me get a few things out of the way: I don't need a mechanical keyboard, I simply expect a certain level of functionality which many keyboards simply don't offer, and, I can't stand chicklet keyboards at all, so the current options for laptop keyboards are... abysmal.&lt;/p&gt;
+&lt;p&gt;To start, a keyboard must have the following features as a requirement:
+&lt;em&gt; Media Keys
+&lt;/em&gt; Left and right Windows/super keys
+&lt;em&gt; Windows/super key lock
+&lt;/em&gt; Full numpad
+* Option to always force function keys over meta-functions&lt;/p&gt;
+&lt;p&gt;Some of these features are oddly specific, so, I'll explain in detail. Media keys are pretty obvious, I like to be able to control my music player without navigating to the actual application. For the windows keys, I use keyboard shortcuts a lot, and having a windows key on both sides of the keyboard lets me do more one-handed keystrokes. The windows key lock is also very useful since I do play a significant amount of video games, and accidentally bringing up the windows menu in the middle of a game can be quite irritating. Lastly, the function keys should be function keys first and other things second, that is, if I hit &lt;code&gt;f1&lt;/code&gt; I want the function key to be the primary use, and if there is anything else such as volume up or a brightness modifier it should be accessed with a modifier key.&lt;/p&gt;
+&lt;p&gt;Believe it or not, that rather modest list of requiremnts locks out quite a few keyboards, gaming or otherwise. However, I have been very happy with the &lt;a href="http://codekeyboards.com/"&gt;CODE&lt;/a&gt; keyboard from WASAD keyboards. It has all of the above features plus a few others including a variable brightness backlight and connection via a standard usb micro port on the back. The build quality is very solid, I would actually fear for any table I bashed the keyboard against. The keycaps are also very durable, having just shown to show wear after 2 years of heavy use. It's a moot point anyway, since the keycaps are replacible and pretty affordable. It's also worth noting that it supports media keys, even over a PS/2 connection, which I didn't know was possible. It is mechanical, and avalible in a variety of switches, though I chose Cherry MX clear switches.&lt;/p&gt;
+&lt;p&gt;It's not without it's downsides, however. The biggest for me is that the metakey for the media keys and backlight brightness is the right-click key. While this can be rebound and changed by dip-switches on the undreside of the keyboard, I am unable to use both the right-click key and the mediakeys at the same time as a result.&lt;/p&gt;
+&lt;p&gt;Overall, the CODE keyboard is an excellent keyboard which I highly recommend, though, it's quite pricy with the cheapest model starting at $100. However, if you spend a lot of time on your computer and typing, it's worth the money to invest in a comfortable and feature-rich keyboard to make your digital life more comfortable and feature-rich.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>Why I Use Vivaldi</title><link href="/why-i-use-vivaldi.html" rel="alternate"></link><published>2016-09-18T00:00:00-04:00</published><updated>2016-09-18T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-18:/why-i-use-vivaldi.html</id><summary type="html">&lt;p&gt;About 10 years ago, I made the switch from Internet Explorer to Firefox. The internet has gone through some changes since then, but, I stuck with Firefox as my primary browser for the past 10 years. However, there is a new kid on the block, &lt;a href="https://vivaldi.com/"&gt;Vivaldi&lt;/a&gt;. It's an interesting little …&lt;/p&gt;</summary><content type="html">&lt;p&gt;About 10 years ago, I made the switch from Internet Explorer to Firefox. The internet has gone through some changes since then, but, I stuck with Firefox as my primary browser for the past 10 years. However, there is a new kid on the block, &lt;a href="https://vivaldi.com/"&gt;Vivaldi&lt;/a&gt;. It's an interesting little project to be sure, with the old slogan, &lt;em&gt;a modern classic&lt;/em&gt;, saying more than I possibly could about it's goals (for whatever reason, they decided &lt;em&gt;a browser for our friends&lt;/em&gt; is a better slogan, and it has since been changed). In short, Vivaldi aims to put the user back in control over their browser; let the &lt;strong&gt;user&lt;/strong&gt; decide how things should be configured, not the developer.&lt;/p&gt;
+&lt;p&gt;And that is Vivaldi's main strength: customization. Just about every aspect of operation can be tweaked and changed to suit the user's preference. Do you want tabs on the left side of the window, or even the bottom? Done! Do you want to have a modern, condensed title-bar, or do you want the classic file menu, or none at all? All of those are options! The customization doesn't stop there, however. One of the more useful aspects of browsing are keyboard shortcuts, and Vivaldi gives the user to rebind all of them, and even has some very useful and uncommon ones. For example, I have &lt;code&gt;ctrl+(0-9)&lt;/code&gt; set to swtich to that number tab, and, &lt;code&gt;alt+1&lt;/code&gt;/&lt;code&gt;alt+2&lt;/code&gt; set to move backward and forward in the tab-bar respectuflly. I have changed my numpad into a very usefl tool for managing my browser.&lt;/p&gt;
+&lt;p&gt;One last useful thing that Vivaldi offers is lots of features which most broswers have just as addons. My personal favorite is the built in tab-tiling feature, which lets the user split the screen to display multiple tabs at once in the same window. Another notable feature is the inclusion of filters, which change the way the page is displyed in various ways. There's a readability filter, which removes all images and formats the text to be very visible, useful for long articles. There's a filter to change the page into black-and-white, which is useful for designing colorschemes for the web to simulate poor color-vision, and many others!&lt;/p&gt;
+&lt;p&gt;Finally, Vivaldi is built around the webkit rendering engine, and incorperates a lot of chromimum into its code. This makes it pretty much a stand-in for chrome as far as most websites are concerned, and, just about all chrome extensions work without any issues.&lt;/p&gt;
+&lt;p&gt;Overall, I've been using Vivaldi as my primary browser for five months now, and I'm not looking back. I've enjoyed my time with it, and I really enjoy the flexibility that it offers. In the coming days, I plan to outline some of the more  intersting and useful features in more detail.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>Windows 10 Desktops</title><link href="/windows-10-desktops.html" rel="alternate"></link><published>2016-09-17T00:00:00-04:00</published><updated>2016-09-17T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-17:/windows-10-desktops.html</id><summary type="html">&lt;p&gt;Windows 10 is a little over a year old now with two major updates already in the hands of consumers. Today, I'd like to talk about one of the lesser known features which might have been added in an update, or it might have been a feature since launch. Either …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Windows 10 is a little over a year old now with two major updates already in the hands of consumers. Today, I'd like to talk about one of the lesser known features which might have been added in an update, or it might have been a feature since launch. Either way, I didn't pay any attention to it until very recently, however, it is now an indispensable part of my daily workflow despite them being a little rough around the edges.&lt;/p&gt;
+&lt;p&gt;Multiple desktops are a feature in Windows 10, which I somehow missed which allow the user to manage many windows by displaying different open windows in different &lt;em&gt;workspaces&lt;/em&gt; which can be switched between, effectively adding more monitors. This is really useful for me in particular because I can separate windows based off of tasks. Desktop 1 is for general web browsing and open chats, Desktop 2 is for work, and Desktop 3 is for email and other formal communications. By separating windows into various, more focused, tasks, I am less likely to get distracted by something else. It also has the added benefit of making &lt;code&gt;alt+tab&lt;/code&gt; much simpler to use since each workspace maintains it's own active window list which it cycles through.&lt;/p&gt;
+&lt;p&gt;For whatever reason, Windows key-binds are always a pain to find, so here are all the keyboard shorcuts related to Desktops I know of&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;WIN+tab&lt;/code&gt; ~ Brings up a dashboard view which shows all open windows on the current desktop and a list of desktops on the bottom&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;WIN+ctrl+left arrow&lt;/code&gt; ~ Switches one Desktop to the left&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;WIN+ctrl+right arrow&lt;/code&gt; ~ Switches one Desktop to the right&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want to try this out for your self, you can create a new desktop in the dashboard view (&lt;code&gt;WIN+tab&lt;/code&gt;) by hitting the button labled "New Desktop" in the bottom right. If you want to remove a desktop, simply click the x which appears over it when the mouse is hovered over one at the bottom of that view. Another usful trick is right-clicking on a window in the dashboard view opens up a host of options, including moving the window to a different desktop or pinning it to all desktops, forcing it to appear in the same spot no matter which one is active.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>The Plight of the Healer</title><link href="/the-plight-of-the-healer.html" rel="alternate"></link><published>2016-09-16T00:00:00-04:00</published><updated>2016-09-16T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-16:/the-plight-of-the-healer.html</id><summary type="html">&lt;p&gt;The healer class... also known as the team gimp of the online gaming world. When a team wins in a MOBA, or more recently, in Overwatch, the offense classes generally get the glory - the flankers, the tanks, the AD-Carry, the Nukers. However, when the team loses, blame quickly shifts to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The healer class... also known as the team gimp of the online gaming world. When a team wins in a MOBA, or more recently, in Overwatch, the offense classes generally get the glory - the flankers, the tanks, the AD-Carry, the Nukers. However, when the team loses, blame quickly shifts to the healer. "Why didn't you heal me?", "Where were you the entire match?", and  "Way to go healer". As someone who tends to play support this is infuriating because it's no one's fault when a team loses. A team can fail for any number of reasons, but usually it's because the offense and support don't work together.&lt;/p&gt;
+&lt;p&gt;A healer is no good if there is no one around to heal, and likewise, an attacker isn't going to be very effective if they need to seek out health pickups constantly. A good team works together, the offense not straying too far from the healer so they can actually keep them alive, and, the offense can also protect the vulnerable healer from the enemy team- after all, dead supports don't heal. I bring this up because 99% of the time I get yelled at for being a bad healer, it's by an asshole who is so far out of position behind the enemy lines that it's impossible to even get to them. And, if I can get just one more good game because of someone reading this post, I'll be happy.&lt;/p&gt;</content><category term="Gaming"></category><category term="30 Day Challenge"></category></entry><entry><title>In Defense of Removing the Headphone Jack</title><link href="/in-defense-of-removing-the-headphone-jack.html" rel="alternate"></link><published>2016-09-15T00:00:00-04:00</published><updated>2016-09-15T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-15:/in-defense-of-removing-the-headphone-jack.html</id><summary type="html">&lt;p&gt;Apple recently made the news once again with the reveal of the iPhone 7. Along with the usual improvements and iterations one would expect from the yearly iOS update, there was one major elephant in the room: Apple confirmed rumors that they were removing the decades old 3.5mm audio …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Apple recently made the news once again with the reveal of the iPhone 7. Along with the usual improvements and iterations one would expect from the yearly iOS update, there was one major elephant in the room: Apple confirmed rumors that they were removing the decades old 3.5mm audio jack from the latest iteration of the iPhone. This has been controversial for a number of reasons but today I'm going to focus on the positives of removing such a beloved standard port.&lt;/p&gt;
+&lt;p&gt;Firstly, let's get out of the way that I belive that there is no defense or justification for lighting's existence when USB-C was developed essentially in tandem. Secondly, I will admit to being only a novice when it comes to audio equipment, so, please contact me to report any errors you may find. I'll either post an update or edit this article with corrections as needed. So, without any further delay, let's try and justify this... bold... move.&lt;/p&gt;
+&lt;p&gt;The main disadvantage of the 3.5mm audio jack is simply that it needs to convert a digital signal into an analog one to function at all in a DAC or a &lt;em&gt;digital audio converter&lt;/em&gt;. This is actually not all that difficult or costly to do, but it is difficult to do well. The old cost pyramid exists here in full force. Pick two of the following: small size, low cost, high quality. Make no mistake, quality matters immensely in a DAC because it deals with an analog signal as it's output. A low quality DAC can result in overall poor sound quality in all areas as well as introduce noise into the audio line from it's proximity to the numerous electronic components in the phone which could induce an electric current in the audio out line. So, phone designers are left to strike this balance as they see fit.&lt;/p&gt;
+&lt;p&gt;If the 3.5mm jack is removed from the phone entirely, it does two notable things: it frees up valuable space in the phone for some other component, perhaps a bigger batter, or a better quality microphone, or even just saving the space entirely on larger models; moves the choice of DAC to the consumer. USB-C (and lightning, but fuck closed standards) is entirely digital. The phone simply passes along the data in the exact same fashion it is dealt with inside the phone, and the DAC is moved somewhere along the line in the headphones or speakers. This actually has a few advantages: it lets the consumer choose their own DAC, moving the choice of quality vs cost to the user; it moves the DAC outside of the phone, possibly resulting in less noise overall. The difference would be most notable on a cheaper phone, as those are less likely to have a high quality DAC. If the signal is digital, is it is with USB-C, there would be no difference at all between a $20 and a $800 phone as far as sound quality went, barring any software effects added.&lt;/p&gt;
+&lt;p&gt;Overall, there are advantages to removing the legendary 3.5mm headphone jack from cellphones, however, the above advantages hardly justify the removal to me. We all know it: the decision is part of a move by Apple to sell more accessories and further lock users into their walled-garden. But, it's worth to point out that there is plenty of good along with the bad.&lt;/p&gt;</content><category term="30 Day Challenge"></category><category term="Audio"></category></entry><entry><title>Why I Still Play Pokemon GO</title><link href="/why-i-still-play-pokemon-go.html" rel="alternate"></link><published>2016-09-14T00:00:00-04:00</published><updated>2016-09-14T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-14:/why-i-still-play-pokemon-go.html</id><summary type="html">&lt;p&gt;Pokemon GO was a huge craze this previous summer, shattering usage records and beating even the mighty Twitter in daily active users after just a few days on the market. However, nothing lasts forever and what comes up must come down. Recently, I have heard a lot of doom and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pokemon GO was a huge craze this previous summer, shattering usage records and beating even the mighty Twitter in daily active users after just a few days on the market. However, nothing lasts forever and what comes up must come down. Recently, I have heard a lot of doom and gloom about the future of Pokemon Go, and I honestly don't see the same storm clouds that others do. Firstly, &lt;a href="http://arstechnica.com/gaming/2016/08/how-long-can-we-expect-the-pokemon-go-craze-to-last/"&gt;it is following a similar decay rate to other major mobile games&lt;/a&gt;, it's just more noticeable due to the incredible rate it gained users; there was essentially no slow build up, just an initial explosion. But most of all, I don't see Pokemon GO as even competing with most mobile games on the market right now. To me, it is an entirely different kind of experience.&lt;/p&gt;
+&lt;p&gt;Pokemon GO is a different kind of mobile game to me. It's not a time waster I play on the toilet, in the waiting room at the dentist's to calm my nerves, or when I'm avoiding doing work. No, I play Pokemon GO during my commute. As a student, there is a lot of walking in my life, even though I live off-campus and drive there every day. It actually makes me look forward to walking to and from my car, and between my classes. Every walk represents forward progress in the game, 1km closer to hatching that egg, gaining more items to catch more pokemon for stardust to power-up my main "dream team", or just the possibility of finding a new pokemon all together. Unlike most games I play, Pokemon GO is not a time-waster, or a distraction for when I should probably be doing something else, it serves to enhance a normally boring and mundane aspect of my daily life. Furthermore, it encourages me to get out and walk more than a simple step counter does because there is an immediately tangible reward in the game instead of a cryptic step or calorie count that most health apps give.&lt;/p&gt;
+&lt;p&gt;As for the future of Pokemon GO, I'm still optimistic. Niantic has done nothing but add features which improve the game over the past month. From a system which lets player's finally evaluate their pokemon's combat effectiveness, to re-adding the much loved radar, to adding a new buddy system which grants resources for the pokemon that you have as your buddy as you walk. All of these features build upon the common theme of improving my everyday walks. Because of that, I don't see myself stopping anytime soon.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>Starting the 30 Day Challenge</title><link href="/starting-the-30-day-challenge.html" rel="alternate"></link><published>2016-09-13T00:00:00-04:00</published><updated>2016-09-13T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-13:/starting-the-30-day-challenge.html</id><summary type="html">&lt;p&gt;I never update this blog, ever. That needs to change. Due to various reasons which I will not get into at the moment, I am currently placed in the CRP program at RIT due to difficulties with academic performance in the last year or so. While I was initially not …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I never update this blog, ever. That needs to change. Due to various reasons which I will not get into at the moment, I am currently placed in the CRP program at RIT due to difficulties with academic performance in the last year or so. While I was initially not thrilled, perhaps even resistant, to the couple of classes I was being forced to take, I'm beginning to feel like at least one of them will be a positive influence. I was expecting to have motivation and wellness, but it might actually provide the kick in the pants I need to start making changes in my life. One easy change is the &lt;a href="https://www.youtube.com/watch?v=UNP03fDSj1U"&gt;30 Day Challenge&lt;/a&gt; from a TED talk by Matt Cutts.&lt;/p&gt;
+&lt;p&gt;The gist of the 30 Day Challenge is based off of the assertion that it takes the average human 30 days to create a habit. I have no idea if this is true or not, or if it's even based on any research, but there is certainly no harm in trying to make a change and stick with it for 30 days. Needless to say, the change I decided to attempt was to update this neglected website that I'm paying for. I figure the worst that can happen is that I actually use the damn thing, so, there is certainly no reason not to at least attempt this.&lt;/p&gt;
+&lt;p&gt;Either way, look forward to this actually being updated for once, I suppose.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>Running Cities: Skylines on Fedora 21</title><link href="/running-cities-skylines-on-fedora-21.html" rel="alternate"></link><published>2015-03-15T00:00:00-04:00</published><updated>2015-03-15T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2015-03-15:/running-cities-skylines-on-fedora-21.html</id><summary type="html">&lt;p&gt;Cities: Skylines is finally released with support for Windows, OSX, and Linux from day one! The game runs great on Windows, but if you are running it on Linux, you might be having some issues. My install crashed on every launch with only a black screen which required me to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Cities: Skylines is finally released with support for Windows, OSX, and Linux from day one! The game runs great on Windows, but if you are running it on Linux, you might be having some issues. My install crashed on every launch with only a black screen which required me to force quit the application. The fix to this is simple, but annoying. The game must be launched in windowed mode with the -windowed flag in Fedora 21. After the game launches is is safe to switch the game back to fullscreen mode in the options menu. Below are some screenshots showing how to add arguments in Steam.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Cities: Skylines settings in Steam for Linux" src="images/cities-tutorial-1.jpg"&gt;
+&lt;img alt="Cities: Skylines settings in Steam for Linux" src="images/cities-tutorial-2.jpg"&gt;
+&lt;img alt="Cities: Skylines settings in Steam for Linux" src="images/cities-tutorial-3.jpg"&gt;&lt;/p&gt;</content><category term="Gaming"></category><category term="Linux"></category></entry><entry><title>The Failed Promises of Linux Gaming</title><link href="/the-failed-promises-of-linux-gaming.html" rel="alternate"></link><published>2015-03-09T00:00:00-04:00</published><updated>2015-03-09T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2015-03-09:/the-failed-promises-of-linux-gaming.html</id><summary type="html">&lt;p&gt;Way back in 2013, Valve software announced their intention to bring PC gaming to Linux and the world rejoiced. Finally we could be free of the shackles of Microsoft and paid operating systems! We could ascend into a new era of better performance due to the lower overhead of OpenGL …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Way back in 2013, Valve software announced their intention to bring PC gaming to Linux and the world rejoiced. Finally we could be free of the shackles of Microsoft and paid operating systems! We could ascend into a new era of better performance due to the lower overhead of OpenGL, and enjoy more customization. For those unwilling to take the plunge into Linux, Valve announced Steam OS: a Linux based operating system designed for gaming first. Steam OS would be loaded on Steam Machines designed to take PC gaming to the living room and free console users from the tyranny of Sony, Microsoft, and Nintendo. We would all be moved into a gaming utopia under the light of Gaben. Half Life 3 would finally be confirmed! All gaming Internet arguments would end, and we would all sing Kumbaya around a virtual campfire rendered in the Source 2 engine.&lt;/p&gt;
+&lt;p&gt;Fast forward to 2015. Steam OS is finally coming out of beta, but no one other than the hardcore audience seems to care or even remember they exist. Steam machines are finally becoming a reality, though not until November of 2015. The current console generation will have been out for three years already and had had time to establish itself. The Steam Machines that have been announced are certainly not console-killers. Even worse, they don't make the transition to PC gaming any easier. There are multiple models of Steam Machines with drastically different pricepoints and performance. The cheaper models will not compete with the current generation of consoles for raw power. The higher end boxes are more expensive than a console, and are more expensive then building an equivalent machine from scratch.&lt;/p&gt;
+&lt;p&gt;Steam OS has been stuck in perpetual beta for years. While it is too early to pass judgment upon it, it has caused a significant number of games to be ported to Linux. This has been a positive for the industry and the consumer, but consumers are not getting exactly what was advertised. Valve showcased a Linux build of Left 4 Dead 2 playing at a higher framerate than the Windows version claiming that switching to Linux will yield better performance due to decreased driver overhead. Valve also announced a toolkit to make porting games from Windows easier. This turned out to be a double edged sword. While many games are currently available for Linux that probably would not otherwise been ported, many are poor quality ports that are inferior at best and completely incompatible at worst when compared to their Windows counterparts. Furthermore, even with this toolkit a truly disappointing number of ports are  just a wine wrapper, which mostly works but is not an improvement over what was done before. For the most part, only Valve games offer an equivalent or superior experience on Linux.&lt;/p&gt;
+&lt;p&gt;I'll use a few examples of high-profile games I have had major issues with. These range from minor usability complaints, to missing features, to things which completely and totally break the game.&lt;/p&gt;
+&lt;p&gt;I was excited for Borderlands 2 and Civilization V to come to Linux. I also feared that my productivity would go down the toilet with two of my most addicting games on my Linux install. I didn't have to worry though. The save files are not compatible between Windows and Linux for Borderlands 2 and for Civilization V. The files don't sync properly from the Linux versions, so any progress on my Linux install would not transfer to my Windows install. This is not a deal breaker for Civilization, but completely unacceptable for Borderlands 2. I can't use my character across installs like I could with a second Windows machine. This might be acceptable five years ago, before cloud saves became common, but is currently unacceptable. As for Civilization V, one of its most interesting features is the Steam Workshop integration, which allows for incredibly easy modding. This is simply absent in the Linux version, rather, it is disabled by default and the only way to enable it is through config editing. I understand that the feature is technically in beta, but Workshop support is advertised on the game's store page! Even when you enable the option in the menu it still warns the user with a pop-up. There is no reason for the Steam Workshop to be disabled by default.&lt;/p&gt;
+&lt;p&gt;Both Borderlands and Civilization suffer from the same problem: they are ported by a third party, Aspyr. Aspyr does an admirable job porting games to Linux, but, they seem to always be incompatible with the windows version managed by the development team. This represents the worst cop-out of Linux gaming, in my opinion. Borderlands and Civilization are often cites as evidence of big-budget AAA games having  a presence on Linux, however, both games come with a HUGE asterisk: your data is incompatible if you also have a Windows install of the game. So while they are present, they almost live in their own little world. This will be a huge issue for someone who wanted to play their Borderlands character on a Steam Machine that they started on their existing gaming PC.&lt;/p&gt;
+&lt;p&gt;Dota 2 is next on the chopping block. It holds the distinguished honor of being the only MOBA game available on Linux, so you'd think this would be listed as a positive. However, as most gamers, I run a muti-monitor setup. On Linux, this means setting up Twinview, which breaks an astounding number of Games. Dota 2 is not broken by Twinview, but it is incapable of locking the cursor to the game Window on Linux. If you have played a MOBA, it is obvious how this makes the game literally unplayable. Every time I try and scroll, the game loses focus. Every time I get a bit excited, and over-react with the mouse, it leaves the screen and I click, bringing the game out of focus. This results in near instant death because every fraction of a second matters in a MOBA, even at the low level of play I am capable of.&lt;/p&gt;
+&lt;p&gt;Finally, the most positive game on my list is Wargame: Red Dragon. Wargame is unique because it actually does not use Valve's cloud or authentication service, and actually functions properly on Linux because of it. My profile is stored on Eugen's servers, and I never have to worry about losing my data between sessions. The major issue with Wargame is it's performance. The game crashes on Linux far more than it does on Windows, and, it has rendering issues with shadows. The final nail in the coffin is the framerate. Red Dragon is a demanding game, but I should never be getting sub 30fps on a GTX 980 with it. The game runs above 60 at all times on Windows, and rarely above 60 on Linux. Almost every game performs worse on Linux than on Windows, but Wargame is one of the worst performing Linux games I own.&lt;/p&gt;
+&lt;p&gt;On the whole, the rest of the industry does not seem to be as gung-ho about Linux gaming as Valve was back in 2013. Gaming on Linux is still an incomplete experience where the user makes many compromises for choosing Linux over Windows. The only benefits are ideological. Maybe Steam OS will change things, but for the time being, the industry treats Linux gamers as second-class citizens, and until more people adopt Linux or Steam OS, they will always be treated as such.&lt;/p&gt;</content><category term="Rants"></category><category term="Gaming"></category></entry><entry><title>YouTube's UI is Shit... Part 1</title><link href="/youtubes-ui-is-shit-part-1.html" rel="alternate"></link><published>2015-01-27T00:00:00-05:00</published><updated>2015-01-27T00:00:00-05:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2015-01-27:/youtubes-ui-is-shit-part-1.html</id><summary type="html">&lt;p&gt;I'll start this post by stating that I am in no way an expert in user interface design, I spend enough time on YouTube as a user to notice some glaring flaws. The fact that I am &lt;em&gt;not&lt;/em&gt; an expert and yet still feel qualified should highlight on how bad …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I'll start this post by stating that I am in no way an expert in user interface design, I spend enough time on YouTube as a user to notice some glaring flaws. The fact that I am &lt;em&gt;not&lt;/em&gt; an expert and yet still feel qualified should highlight on how bad YouTube's UI really is.&lt;/p&gt;
+&lt;h3&gt;What's Wrong?&lt;/h3&gt;
+&lt;p&gt;I'll start with seemingly the most basic part of the UI: viewing a user's uploads. You should try this with me now. Go open an uploader's uploads page. At the bottom middle of the screen there is a button which says "Load More". Click this button and watch any video on the part of the page that loads. When you have finished enjoying your video of choice, hit back. Oh look! You are at the top of the uploads page again. This problem is even worse when an uploader has hundreds and hundreds of videos. As a user, you must rely on an uploader organizing all of their videos into playlists, or rely on searching by video name (provided you know part of the name of the video you want to find). I have no idea how this has continued to pass even the most basic of user experience tests for years.&lt;/p&gt;
+&lt;h3&gt;How to Fix it&lt;/h3&gt;
+&lt;p&gt;There are a few options here. First, make each video open on a different tab or different window. This is a simple fix, but I personally think that any design that requires the user to manage multiple tabs is an example of poor design.&lt;/p&gt;
+&lt;p&gt;Another easy option is to move back to a standard page system. This is not as "sexy" of a design option as the single page model, but the user can actually pick up where they left off.&lt;/p&gt;
+&lt;p&gt;The final option could be to find a way to remember where the user left off on the endless scrolling page. I'm not entirely sure how this is implemented, but other sites utilize it. Go to Facebook, and open a link partway down the page then return. When you navigate back it remembers your position and returns roughly to where you left off.&lt;/p&gt;</content><category term="Rants"></category><category term="UI"></category><category term="Youtube"></category></entry></feed>

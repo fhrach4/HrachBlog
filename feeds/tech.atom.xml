@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>HrachBlog - Tech</title><link href="/" rel="alternate"></link><link href="/feeds/tech.atom.xml" rel="self"></link><id>/</id><updated>2016-09-29T00:00:00-04:00</updated><entry><title>The Thoughtfulness of Windows Phone 8.1</title><link href="/the-thoughtfulness-of-windows-phone-81.html" rel="alternate"></link><published>2016-09-29T00:00:00-04:00</published><updated>2016-09-29T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-29:/the-thoughtfulness-of-windows-phone-81.html</id><summary type="html">&lt;p&gt;In my previous post, I mentioned that the best phone I had ever owned was the Nokia Lumia 920. While the hardware
+was excellent, a large part of my fondness for the device is due to its operating system: Windows 8.1 Mobile.
+Windows phone is the butt of many …&lt;/p&gt;</summary><content type="html">&lt;p&gt;In my previous post, I mentioned that the best phone I had ever owned was the Nokia Lumia 920. While the hardware
+was excellent, a large part of my fondness for the device is due to its operating system: Windows 8.1 Mobile.
+Windows phone is the butt of many jokes, but really, the other two contenders in the mobile OS space could learn a
+lot from some of the design choices of Windows Phone.&lt;/p&gt;
+&lt;h3&gt;Multitasking&lt;/h3&gt;
+&lt;p&gt;One of the things Windows phone does exceptionally well is handling multiple applications running at once. Each
+application runs in a sandbox, not unlike a docker container. This allows the phone to easily "hibernate" an
+application when it is sent to the background, instead of the phone trying to run every application all at once,
+and closing them when resources are needed. This model, however, does not allow for background tasks as only one
+application can be "awake" and running at a time. This is solved by applications being able to register a
+&lt;em&gt;background service&lt;/em&gt; which can always run even when the application is not in the foreground. These use fewer
+resources than the main application, and the user can allow or disallow any application from running in the
+background if they wish. The advantage of this system, is even very-low end phones don't suffer performance
+penalties from having many applications open, and, it enables the user to have more control over their battery life
+as no service can run by accident in the background.&lt;/p&gt;
+&lt;h3&gt;Calendar and Mail&lt;/h3&gt;
+&lt;p&gt;One of the most useful features of Windows Phone was how it handled email. Call me old fashioned, but 99% of my
+phone's use time is dealing with calendar and email. The way Windows Phone handled these wasn't too different from
+many competitors: you simply registered your account with the operating system, and applications could ask for the
+main update service to retrieve information from the accounts based off of a permission system. Applications could,
+of course, store and authenticate with their own set of credentials not managed by the operating system, but for
+any services from Google, Microsoft, Amazon, etc. it was much more convenient to use the credential store since the
+account was most likely going to be used in multiple applications. The key difference with Windows Phone was the
+sheer number of third-party accounts this worked with. This is most likely only because Windows Pone never managed
+to get above 7% of the US smartphone market share, so they had to accommodate as many platforms as possible instead
+of being able to leverage their position to force everyone to use their platform.&lt;/p&gt;
+&lt;p&gt;Because the operating system handles account authentication for mail, that means that the operating system itself
+can manage reminders and mail tasks. This has several advantages: you are not blindly trusting a third-party
+application with your login information, and, it lets the OS take actions to optimize various aspects. The first
+part is self-explanatory, since the application never directly sees your username and password, a malicious
+application can not take the information. The latter tends to be rather silent but useful: the operating system can
+change the frequency that an account is updated, and thus saving power, dynamically based off of usage.&lt;/p&gt;
+&lt;h3&gt;Music&lt;/h3&gt;
+&lt;p&gt;Somehow, the secondary function of my phone is not to take calls, it's to play music, and Windows Phone set the
+standard I use for judging media controls. Playing music works like any other device, naturally, but the controls
+are all placed in logical and thoughtful places. For example, as soon as a background task playing music is
+registered, the lock-screen is replaced with fully functional media controls. These are much easier to use than
+other smartphones I've used since the entire lock-screen changes to accommodate the new primary task, instead of
+placing a small set of controls. The other incredibly useful feature is that a minimal set of controls (next,
+previous, and play/pause) appears on the volume screen. When the volume button is pressed up or down, a card slides
+down from the top of the screen. When music is playing, the controls are added to that menu. This enables the user
+to pause their music or skip a song they don't like even while in a different application.&lt;/p&gt;
+&lt;p&gt;Overall, there are quite a few very well though out aspects of Windows Phone as a platform. It appears that the
+platform will not survive five more years in the current market, but perhaps some of these design choices can come
+to other platforms.&lt;/p&gt;</content><category term="30 Day Challenge"></category><category term="Mobile"></category></entry><entry><title>The Android Problem</title><link href="/the-android-problem.html" rel="alternate"></link><published>2016-09-28T00:00:00-04:00</published><updated>2016-09-28T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-28:/the-android-problem.html</id><summary type="html">&lt;p&gt;I have a somewhat mixed history with smartphones. Initially, I didn't see the point in them at all and stuck with
+my flip-phone until sometime around 2011, my hesitation being mostly due to power concerns and not wanting my GPS,
+phone, calendar, and audio player running out of battery all …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I have a somewhat mixed history with smartphones. Initially, I didn't see the point in them at all and stuck with
+my flip-phone until sometime around 2011, my hesitation being mostly due to power concerns and not wanting my GPS,
+phone, calendar, and audio player running out of battery all at once. Needless to say I stopped caring about that
+issue and simply devised ways to prevent the device from ever running out of power. I clearly remember my first
+phone, the HTC Inspire. Sadly, that phone was released right before Android started to essentially require a
+dual-core processor; I only had about six months to a year of comfortable usage out of it before it was painfully
+obvious that the phone was not powerful enough for the operating system of the day.&lt;/p&gt;
+&lt;p&gt;In 2013, I switched to a Nokia Lumia 920. Call me crazy, but that has been without a doubt, the best phone I've
+ever had. Sure, Windows Phone had net to no applications and market share, but the build quality was excellent, the
+camera superb, and the battery life is still the longest of any phone I've owned to date. Sadly, the digitizer died
+on that phone in 2015 and due to the cost of the repair, I simply purchased a new phone. (Though if anyone wants a
+used Lumia 920 with a broken digitizer, contact me, I'm willing to sell. The phone still works amazingly
+otherwise).&lt;/p&gt;
+&lt;p&gt;My next phone was the Lumia 935, a budget phone I bought for $50. I discovered that Windows Phone shines on
+lower-end devices as there was virtually no difference in experience between my top-of-the-line 920 and the
+bargain-bin 935, save for a few luxury features such as an ambient light sensor to automatically change screen
+brightness. I intended for the 935 to be a hold-over until the eventual release of the 950 later that year, but
+that's not exactly what happened. The 950 eventually ended up being released, but at the absolutely insane price-point
+of $599. The closest competitor I saw as the Google Nexus 5X, for a measly $399 by comparison. Needless to say, I
+jumped ship for and was on Android once again.&lt;/p&gt;
+&lt;p&gt;Being back on Android made me realize an important thing: Android is incredibly open and yet incredibly closed at
+the same time. Time and time again, I came to realize that what I, and most people, think of as "Android" is
+actually Google's Ecosystem, and with each update the two become more and more difficult to separate. Quite
+possibly, the best example I can think of is Google Now. For the unaware, Google Now is a digital assistant and
+wrapper around Google's search engine. It can do many useful things such as tell you about flights, remind you to
+pay bills, and remind you to leave for appointments. To accomplish all of these tasks, it requires access to your
+email and calendar, however, there is no way to add a third party service for either of these. I have used Outlook
+for my calendar for many, many, years, even longer than Google has even &lt;em&gt;had&lt;/em&gt; a calendar application and switching
+is too much work, but, Google Now simply cannot read a non-google calendar, and does not appear to have a way to
+add a remote calendar from their web interface.&lt;/p&gt;
+&lt;p&gt;This upsets me, since Android used to be hailed as the alternative to iOS where the user had control over their
+experience and Google used to embrace and support that. However, the Android of today is no different than iOS,
+with Google desperately trying to keep more more people in their walled-garden of services instead of supporting
+alternative as they once did. Perhaps I'll take the plunge and install a custom ROM in the future, but for now,
+I'll complain about it on the internet.&lt;/p&gt;</content><category term="30 Day Challenge"></category><category term="Mobile"></category></entry><entry><title>Fixing Vim Color Errors in Tmux</title><link href="/fixing-vim-color-errors-in-tmux.html" rel="alternate"></link><published>2016-09-26T00:00:00-04:00</published><updated>2016-09-26T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-26:/fixing-vim-color-errors-in-tmux.html</id><summary type="html">&lt;p&gt;As it is for many, tmux is an irreplaceable part of my workflow, however, anyone who has a 256color color scheme in
+vim is familiar with this picture:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Background bleeding in tmux" src="images/bad_256-term.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;Thankfully, this is easily fixed with a simple modification to your vimrc.&lt;/p&gt;
+&lt;p&gt;I'm not exactly sure why the following snippet fixes this …&lt;/p&gt;</summary><content type="html">&lt;p&gt;As it is for many, tmux is an irreplaceable part of my workflow, however, anyone who has a 256color color scheme in
+vim is familiar with this picture:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Background bleeding in tmux" src="images/bad_256-term.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;Thankfully, this is easily fixed with a simple modification to your vimrc.&lt;/p&gt;
+&lt;p&gt;I'm not exactly sure why the following snippet fixes this, but setting &lt;code&gt;t_ut&lt;/code&gt; to blank fixes the issue. I am unsure
+of how this effects vim's normal coloring, so, it never hurts to check for the specific case.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;if &amp;amp;term =~ 256color
+    t_ut=
+end if
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;It's that easy!&lt;/p&gt;</content><category term="30 Day Challenge"></category><category term="Vim"></category></entry><entry><title>Making Smarter Ads</title><link href="/making-smarter-ads.html" rel="alternate"></link><published>2016-09-25T00:00:00-04:00</published><updated>2016-09-25T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-25:/making-smarter-ads.html</id><summary type="html">&lt;p&gt;Advertisements make the world wide web as we know it possible. This is a truth that most don't like to hear,
+however, don't mistake this sentiment as judgement for using an ad-blocker. There are plenty of legitimate reasons
+to use one, ranging from protecting your system from malicious code, to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Advertisements make the world wide web as we know it possible. This is a truth that most don't like to hear,
+however, don't mistake this sentiment as judgement for using an ad-blocker. There are plenty of legitimate reasons
+to use one, ranging from protecting your system from malicious code, to making websites usable, increasing the
+page-load speed and overall responsiveness, or simply to protect your datacap. It's pretty much accepted that the
+modern web is nearly impossible to use without software to block ads, and it is fully in the user's right to block
+content from being displayed on &lt;em&gt;their&lt;/em&gt; system. However, it is in all of our best interests for the web to remain
+free and open, and sadly, no one has come up with an acceptable alternative beyond selling ad-space.&lt;/p&gt;
+&lt;p&gt;I believe, however, a balance can be struck. While I am adamantly against Ad Block Plus's
+&lt;a href="https://adblockplus.org/acceptable-ads#criteria-general"&gt;acceptable advertising campaign&lt;/a&gt;, I believe a set of
+guidelines like they outline has merit. The major flaw with the system ABP as in place is they act as the final
+arbiter of what is acceptable and what is not, and, they reserve the right to replace content on the screen with
+their own. So, if your ad-network is not on their list, they will replace the element with their own content.
+Frankly, it reminds me of a Mafia-style shakedown: "That's a real nice pageview you have there... it would be a
+shame if someone were to... block it. Pay us to have your ad-network white-listed... or we might have to block your
+content... see?" Perhaps that's a bit hyperbolic, but it doesn't sit well with me when the company making money
+off of selling the space is also determining what is acceptable and reserve the right to change content at any time
+without the page-owner's or users direct content.&lt;/p&gt;
+&lt;p&gt;However, I believe that an acceptable advertising standard could be a very good thing if it is administered by a
+neutral third party, perhaps a group of ad-networks, or many major web-hosters. They could set standards such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Content must be less than 2MB in size&lt;/li&gt;
+&lt;li&gt;Content must not add more than 200ms of time to a fresh pageload&lt;/li&gt;
+&lt;li&gt;Scripts should be limited to the bare minimum required to track and serve the advertisement&lt;/li&gt;
+&lt;li&gt;Video ads should be limited to 5 seconds long&lt;/li&gt;
+&lt;li&gt;Content must not obscure the screen or other elements in the page in any way&lt;/li&gt;
+&lt;li&gt;Content must not be deceptive, and try and mimic system messages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Obviously, these guidelines would be much more deeply thought out and nuanced then what is listed above, however,
+the important prat is that no one should profit from the guidelines; they should be drafted and managed by a
+neutral third party, or, enough competing corporations be involved that no one can swing the guidelines in their
+favor. Perhaps the W3C should consider drafting this standard, officially securing its neutrality. Either way, food
+for thought.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>Effectively Editing Markdown Files in Vim</title><link href="/effectively-editing-markdown-files-in-vim.html" rel="alternate"></link><published>2016-09-22T00:00:00-04:00</published><updated>2016-09-22T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-22:/effectively-editing-markdown-files-in-vim.html</id><summary type="html">&lt;p&gt;Writing markdown is not like writing code, or even HTML at times. Markdown is almost exclusively plain English and 
+has very few tags and very little syntax, unlike HTML and all other programming languages. This puts Markdown in a
+very strange place, since it cannot be edited effectively in a …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Writing markdown is not like writing code, or even HTML at times. Markdown is almost exclusively plain English and 
+has very few tags and very little syntax, unlike HTML and all other programming languages. This puts Markdown in a
+very strange place, since it cannot be edited effectively in a traditional word processor, and, it's structure
+makes it a poor fit for many text editors. I played around with many different editors, including Sublime, Atom,
+and even Visual Studio Code. The best fit was probably Atom, however, it's spell-checking is very inefficient to
+use, or at least, I never was able to find a quick way to make corrections. This is perfectly fine, of course, Atom
+is meant as a text editor for code, seemingly JavaScript,  where spelling is not important at all. But, I have the
+English-language ability of a paper bag, and essentially require a spell-checker to not make numerous errors
+without fail.&lt;/p&gt;
+&lt;p&gt;Eventually, I ended up back at my roots, so to speak, using Vim. However, Vim is also completely awful for Markdown
+by default as well, however, I know how to configure it and there is a very robust community which has fixed the
+vast majority of issues I encountered.&lt;/p&gt;
+&lt;h1&gt;Vimrc Changes&lt;/h1&gt;
+&lt;p&gt;By default, Vim does not recognize Markdown files as a filetype. This is fixed with a script later, but it is also
+entirely possible to fix without the script by simply adding the following to your .vimrc:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;filetype on
+filetype plugin on
+au BufNewFile,BufFilePre,BufRead *.md set filetype=markdown
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Now markdown files can be treated like any other file type. Personally, I added the following to make my markdown
+edition experience more pleasurable:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&amp;quot;&amp;quot; Markdown
+au FileType markdown set spell
+au FileType markdown set autoindent
+au FileType markdown set smartindent
+au FileType markdown set list
+au FileType markdown set lcs=tab:&amp;gt;-
+au FileType markdown set textwidth=115
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;There's nothing too fancy here. &lt;code&gt;spell&lt;/code&gt; is simply enabled because I fail tremendously at the English language.
+&lt;code&gt;autoindent&lt;/code&gt; and &lt;code&gt;smartindent&lt;/code&gt; are both enabled to make editing lists require less liberal use of the tab key.
+&lt;code&gt;list&lt;/code&gt; and &lt;code&gt;lcs=tab:&amp;gt;-&lt;/code&gt; work together to display the indentation levels when they are present. I find this makes it
+much easier to determine which level I'm writing at in long chains of lists, which, often happens while I'm taking
+notes. Finally, &lt;code&gt;textwidth=115&lt;/code&gt; is something I'm still playing with. It forces Vim to start a new line once it
+reaches 115 characters which is useful because it is very painful to edit extremely long lines. However, this value
+will mostly likely change because 115 is a bit too small on a 1080p monitor, and, too wide for a split view on my
+laptop's puny 1600x900 monitor.&lt;/p&gt;
+&lt;h1&gt;Markdown.vim&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://github.com/plasticboy/vim-markdown"&gt;Markdown.vim&lt;/a&gt; is a script which adds proper detection of markdown
+filetypes, adds syntax highlighting support, and, includes some features which some may find useful. It works
+pretty well out of the box, however, a few small changes were required for me personally. The section in my
+.vimrc is as follows:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&amp;quot;&amp;quot; Markdown.vim
+let g:vim_markdown_folding_disabled = 1
+let g:vim_markdown_conceal = 0
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The only changes above disable folding when a file is opened, which I find particularly obnoxious, and disables
+ concealing. Concealing, in this context, hides the contents of a link while editing to save space. I actually
+ haven't used Markdown.vim too much, so, I will do an article in the future outlining some more advanced features
+ and customizations that I will eventually learn to use and decide on.&lt;/p&gt;</content><category term="30 Day Challenge"></category><category term="Vim"></category></entry><entry><title>Some Useful Vim Commands</title><link href="/some-useful-vim-commands.html" rel="alternate"></link><published>2016-09-20T00:00:00-04:00</published><updated>2016-09-20T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-20:/some-useful-vim-commands.html</id><summary type="html">&lt;p&gt;Despite many other options being available, I still use Vim daily for various tasks from taking notes to writing this post. However, I'll admit that Vim has a lot of strange and somewhat arbitrary key combinations which are quite useful. I'm going to list a few which I use daily …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Despite many other options being available, I still use Vim daily for various tasks from taking notes to writing this post. However, I'll admit that Vim has a lot of strange and somewhat arbitrary key combinations which are quite useful. I'm going to list a few which I use daily which might not be common knowledge or I frequently forget.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;Mode&lt;/th&gt;
+&lt;th align="left"&gt;Keystrokes&lt;/th&gt;
+&lt;th align="left"&gt;Effect&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;$&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Moves the cursor to the end of the current line&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;0&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Moves the cursor to the first non-whitespace character of the current line&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;shift+j&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Joins the current line with the line below it&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;~&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Toggles between capital and lowercase letters under the cursor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;]s&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Moves to the next misspelled word&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;[s&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Moves to the previous misspelled word&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Insert&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;ctrl+x s&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Brings up a list of suggestions if a misspelled word is after the cursor. The list can be navagiated with &lt;code&gt;ctrl+n&lt;/code&gt; and &lt;code&gt;ctrl+p&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;ctrl+a&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;If the cursor is over a number, increments it by 1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;ctrl+x&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;If the cursor is over a number, decrements it by 1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;z=&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;If &lt;code&gt;set spell&lt;/code&gt; and the cursor is over a misspelled word, will bring up a list of correcton candidates&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Normal&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;shift+h&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Moves the cursor to the top of the screen&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Visual Block&lt;/td&gt;
+&lt;td align="left"&gt;&lt;code&gt;shift+I&lt;/code&gt;&lt;/td&gt;
+&lt;td align="left"&gt;Enters insert mode and inserts whatever is typed in each highlighted square&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content><category term="30 Day Challenge"></category><category term="Vim"></category></entry><entry><title>My Current Keyboard</title><link href="/my-current-keyboard.html" rel="alternate"></link><published>2016-09-19T00:00:00-04:00</published><updated>2016-09-19T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-19:/my-current-keyboard.html</id><summary type="html">&lt;p&gt;As someone who spends a lot of time on their computer I also, by extension, spend a lot of time with my keyboard. As such, I have come to actually be very picky about my peripherals and I don't settle for a cheap or sub-par keyboard anymore. Before I come …&lt;/p&gt;</summary><content type="html">&lt;p&gt;As someone who spends a lot of time on their computer I also, by extension, spend a lot of time with my keyboard. As such, I have come to actually be very picky about my peripherals and I don't settle for a cheap or sub-par keyboard anymore. Before I come off as some elitist snob, let me get a few things out of the way: I don't need a mechanical keyboard, I simply expect a certain level of functionality which many keyboards simply don't offer, and, I can't stand chicklet keyboards at all, so the current options for laptop keyboards are... abysmal.&lt;/p&gt;
+&lt;p&gt;To start, a keyboard must have the following features as a requirement:
+&lt;em&gt; Media Keys
+&lt;/em&gt; Left and right Windows/super keys
+&lt;em&gt; Windows/super key lock
+&lt;/em&gt; Full numpad
+* Option to always force function keys over meta-functions&lt;/p&gt;
+&lt;p&gt;Some of these features are oddly specific, so, I'll explain in detail. Media keys are pretty obvious, I like to be able to control my music player without navigating to the actual application. For the windows keys, I use keyboard shortcuts a lot, and having a windows key on both sides of the keyboard lets me do more one-handed keystrokes. The windows key lock is also very useful since I do play a significant amount of video games, and accidentally bringing up the windows menu in the middle of a game can be quite irritating. Lastly, the function keys should be function keys first and other things second, that is, if I hit &lt;code&gt;f1&lt;/code&gt; I want the function key to be the primary use, and if there is anything else such as volume up or a brightness modifier it should be accessed with a modifier key.&lt;/p&gt;
+&lt;p&gt;Believe it or not, that rather modest list of requiremnts locks out quite a few keyboards, gaming or otherwise. However, I have been very happy with the &lt;a href="http://codekeyboards.com/"&gt;CODE&lt;/a&gt; keyboard from WASAD keyboards. It has all of the above features plus a few others including a variable brightness backlight and connection via a standard usb micro port on the back. The build quality is very solid, I would actually fear for any table I bashed the keyboard against. The keycaps are also very durable, having just shown to show wear after 2 years of heavy use. It's a moot point anyway, since the keycaps are replacible and pretty affordable. It's also worth noting that it supports media keys, even over a PS/2 connection, which I didn't know was possible. It is mechanical, and avalible in a variety of switches, though I chose Cherry MX clear switches.&lt;/p&gt;
+&lt;p&gt;It's not without it's downsides, however. The biggest for me is that the metakey for the media keys and backlight brightness is the right-click key. While this can be rebound and changed by dip-switches on the undreside of the keyboard, I am unable to use both the right-click key and the mediakeys at the same time as a result.&lt;/p&gt;
+&lt;p&gt;Overall, the CODE keyboard is an excellent keyboard which I highly recommend, though, it's quite pricy with the cheapest model starting at $100. However, if you spend a lot of time on your computer and typing, it's worth the money to invest in a comfortable and feature-rich keyboard to make your digital life more comfortable and feature-rich.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>Why I Use Vivaldi</title><link href="/why-i-use-vivaldi.html" rel="alternate"></link><published>2016-09-18T00:00:00-04:00</published><updated>2016-09-18T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-18:/why-i-use-vivaldi.html</id><summary type="html">&lt;p&gt;About 10 years ago, I made the switch from Internet Explorer to Firefox. The internet has gone through some changes since then, but, I stuck with Firefox as my primary browser for the past 10 years. However, there is a new kid on the block, &lt;a href="https://vivaldi.com/"&gt;Vivaldi&lt;/a&gt;. It's an interesting little …&lt;/p&gt;</summary><content type="html">&lt;p&gt;About 10 years ago, I made the switch from Internet Explorer to Firefox. The internet has gone through some changes since then, but, I stuck with Firefox as my primary browser for the past 10 years. However, there is a new kid on the block, &lt;a href="https://vivaldi.com/"&gt;Vivaldi&lt;/a&gt;. It's an interesting little project to be sure, with the old slogan, &lt;em&gt;a modern classic&lt;/em&gt;, saying more than I possibly could about it's goals (for whatever reason, they decided &lt;em&gt;a browser for our friends&lt;/em&gt; is a better slogan, and it has since been changed). In short, Vivaldi aims to put the user back in control over their browser; let the &lt;strong&gt;user&lt;/strong&gt; decide how things should be configured, not the developer.&lt;/p&gt;
+&lt;p&gt;And that is Vivaldi's main strength: customization. Just about every aspect of operation can be tweaked and changed to suit the user's preference. Do you want tabs on the left side of the window, or even the bottom? Done! Do you want to have a modern, condensed title-bar, or do you want the classic file menu, or none at all? All of those are options! The customization doesn't stop there, however. One of the more useful aspects of browsing are keyboard shortcuts, and Vivaldi gives the user to rebind all of them, and even has some very useful and uncommon ones. For example, I have &lt;code&gt;ctrl+(0-9)&lt;/code&gt; set to swtich to that number tab, and, &lt;code&gt;alt+1&lt;/code&gt;/&lt;code&gt;alt+2&lt;/code&gt; set to move backward and forward in the tab-bar respectuflly. I have changed my numpad into a very usefl tool for managing my browser.&lt;/p&gt;
+&lt;p&gt;One last useful thing that Vivaldi offers is lots of features which most broswers have just as addons. My personal favorite is the built in tab-tiling feature, which lets the user split the screen to display multiple tabs at once in the same window. Another notable feature is the inclusion of filters, which change the way the page is displyed in various ways. There's a readability filter, which removes all images and formats the text to be very visible, useful for long articles. There's a filter to change the page into black-and-white, which is useful for designing colorschemes for the web to simulate poor color-vision, and many others!&lt;/p&gt;
+&lt;p&gt;Finally, Vivaldi is built around the webkit rendering engine, and incorperates a lot of chromimum into its code. This makes it pretty much a stand-in for chrome as far as most websites are concerned, and, just about all chrome extensions work without any issues.&lt;/p&gt;
+&lt;p&gt;Overall, I've been using Vivaldi as my primary browser for five months now, and I'm not looking back. I've enjoyed my time with it, and I really enjoy the flexibility that it offers. In the coming days, I plan to outline some of the more  intersting and useful features in more detail.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>Windows 10 Desktops</title><link href="/windows-10-desktops.html" rel="alternate"></link><published>2016-09-17T00:00:00-04:00</published><updated>2016-09-17T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-17:/windows-10-desktops.html</id><summary type="html">&lt;p&gt;Windows 10 is a little over a year old now with two major updates already in the hands of consumers. Today, I'd like to talk about one of the lesser known features which might have been added in an update, or it might have been a feature since launch. Either …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Windows 10 is a little over a year old now with two major updates already in the hands of consumers. Today, I'd like to talk about one of the lesser known features which might have been added in an update, or it might have been a feature since launch. Either way, I didn't pay any attention to it until very recently, however, it is now an indispensable part of my daily workflow despite them being a little rough around the edges.&lt;/p&gt;
+&lt;p&gt;Multiple desktops are a feature in Windows 10, which I somehow missed which allow the user to manage many windows by displaying different open windows in different &lt;em&gt;workspaces&lt;/em&gt; which can be switched between, effectively adding more monitors. This is really useful for me in particular because I can separate windows based off of tasks. Desktop 1 is for general web browsing and open chats, Desktop 2 is for work, and Desktop 3 is for email and other formal communications. By separating windows into various, more focused, tasks, I am less likely to get distracted by something else. It also has the added benefit of making &lt;code&gt;alt+tab&lt;/code&gt; much simpler to use since each workspace maintains it's own active window list which it cycles through.&lt;/p&gt;
+&lt;p&gt;For whatever reason, Windows key-binds are always a pain to find, so here are all the keyboard shorcuts related to Desktops I know of&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;WIN+tab&lt;/code&gt; ~ Brings up a dashboard view which shows all open windows on the current desktop and a list of desktops on the bottom&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;WIN+ctrl+left arrow&lt;/code&gt; ~ Switches one Desktop to the left&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;WIN+ctrl+right arrow&lt;/code&gt; ~ Switches one Desktop to the right&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want to try this out for your self, you can create a new desktop in the dashboard view (&lt;code&gt;WIN+tab&lt;/code&gt;) by hitting the button labled "New Desktop" in the bottom right. If you want to remove a desktop, simply click the x which appears over it when the mouse is hovered over one at the bottom of that view. Another usful trick is right-clicking on a window in the dashboard view opens up a host of options, including moving the window to a different desktop or pinning it to all desktops, forcing it to appear in the same spot no matter which one is active.&lt;/p&gt;</content><category term="30 Day Challenge"></category></entry><entry><title>In Defense of Removing the Headphone Jack</title><link href="/in-defense-of-removing-the-headphone-jack.html" rel="alternate"></link><published>2016-09-15T00:00:00-04:00</published><updated>2016-09-15T00:00:00-04:00</updated><author><name>Frank Hrach</name></author><id>tag:None,2016-09-15:/in-defense-of-removing-the-headphone-jack.html</id><summary type="html">&lt;p&gt;Apple recently made the news once again with the reveal of the iPhone 7. Along with the usual improvements and iterations one would expect from the yearly iOS update, there was one major elephant in the room: Apple confirmed rumors that they were removing the decades old 3.5mm audio …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Apple recently made the news once again with the reveal of the iPhone 7. Along with the usual improvements and iterations one would expect from the yearly iOS update, there was one major elephant in the room: Apple confirmed rumors that they were removing the decades old 3.5mm audio jack from the latest iteration of the iPhone. This has been controversial for a number of reasons but today I'm going to focus on the positives of removing such a beloved standard port.&lt;/p&gt;
+&lt;p&gt;Firstly, let's get out of the way that I belive that there is no defense or justification for lighting's existence when USB-C was developed essentially in tandem. Secondly, I will admit to being only a novice when it comes to audio equipment, so, please contact me to report any errors you may find. I'll either post an update or edit this article with corrections as needed. So, without any further delay, let's try and justify this... bold... move.&lt;/p&gt;
+&lt;p&gt;The main disadvantage of the 3.5mm audio jack is simply that it needs to convert a digital signal into an analog one to function at all in a DAC or a &lt;em&gt;digital audio converter&lt;/em&gt;. This is actually not all that difficult or costly to do, but it is difficult to do well. The old cost pyramid exists here in full force. Pick two of the following: small size, low cost, high quality. Make no mistake, quality matters immensely in a DAC because it deals with an analog signal as it's output. A low quality DAC can result in overall poor sound quality in all areas as well as introduce noise into the audio line from it's proximity to the numerous electronic components in the phone which could induce an electric current in the audio out line. So, phone designers are left to strike this balance as they see fit.&lt;/p&gt;
+&lt;p&gt;If the 3.5mm jack is removed from the phone entirely, it does two notable things: it frees up valuable space in the phone for some other component, perhaps a bigger batter, or a better quality microphone, or even just saving the space entirely on larger models; moves the choice of DAC to the consumer. USB-C (and lightning, but fuck closed standards) is entirely digital. The phone simply passes along the data in the exact same fashion it is dealt with inside the phone, and the DAC is moved somewhere along the line in the headphones or speakers. This actually has a few advantages: it lets the consumer choose their own DAC, moving the choice of quality vs cost to the user; it moves the DAC outside of the phone, possibly resulting in less noise overall. The difference would be most notable on a cheaper phone, as those are less likely to have a high quality DAC. If the signal is digital, is it is with USB-C, there would be no difference at all between a $20 and a $800 phone as far as sound quality went, barring any software effects added.&lt;/p&gt;
+&lt;p&gt;Overall, there are advantages to removing the legendary 3.5mm headphone jack from cellphones, however, the above advantages hardly justify the removal to me. We all know it: the decision is part of a move by Apple to sell more accessories and further lock users into their walled-garden. But, it's worth to point out that there is plenty of good along with the bad.&lt;/p&gt;</content><category term="30 Day Challenge"></category><category term="Audio"></category></entry></feed>
